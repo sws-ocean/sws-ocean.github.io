@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-06-21T13:16:54-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Samuel W. Stevens, Oceanographer</title><subtitle>The research website of Samuel W. Stevens.</subtitle><author><name>Samuel W. Stevens</name></author><entry><title type="html">Introducing Ghostly, a personal web site theme using Jekyll</title><link href="http://localhost:4000/ghostly" rel="alternate" type="text/html" title="Introducing Ghostly, a personal web site theme using Jekyll" /><published>2020-01-08T00:00:00-08:00</published><updated>2020-01-08T00:00:00-08:00</updated><id>http://localhost:4000/ghostly</id><content type="html" xml:base="http://localhost:4000/ghostly"><![CDATA[<p>Ghostly is a blog-enabled, text-centered Jekyll theme with a minimal aesthetic and fade transitions, intended to meet the needs of academic researchers.  This theme comes equipped with a double blog, a lightbox, support for online commenting, and a skeleton site with a readily customizable style.</p>
+
+<p>Ghostly is what I use for my own web site, <a href="http://www.jmlilly.net/">jmlilly.net</a>, and is available for download from <a href="https://github.com/jonathanlilly/ghostly">GitHub</a>.  You could probably modify it into a fully functioning web site for yourself in a matter of hours.</p>
+
+<h2 id="history">History</h2>
+
+<p>In early prehistory, before phones and tablets, you could build your own web site from scratch.  The result was simple and ugly.  Then CSS emerged in all its unwieldy beauty, engendering equal parts hope and despair.</p>
+
+<p>Devices proliferated, more revolutions occurred, and things got really complicated.  Nowadays you can have someone else do the under-the-hood work with Wordpress, or build a site yourself with a full-featured framework such as Bootstrap.  In either case you’re mostly stuck with somebody else’s templates.</p>
+
+<p>When I was updating my own web site, I didn’t want it to look like anyone else’s.  I also didn’t want a “flavor of the month” site using whatever is the newest fad, because everyone uses those and then they all look outdated in a year when the next thing comes around. I was looking to create something simple, something that I could manage myself, and that would appear to be outside of time.</p>
+
+<p>Around this time I was inspired also by a quote from the musician Jack White, describing in the movie <em>It Might Get Loud</em> the experience of seeing as a youth a radically minimal rock band perform:</p>
+
+<blockquote>
+  <p>I went and saw him play, and was blown away.  There was nothing, there was nothing there.
+Just a little amp and a Silverstone guitar, heading in what I would have thought of at the time as a backwards direction.
+I had to reassess what backwards meant.</p>
+</blockquote>
+
+<p>This reminded me of a colleague who continues to program in F77 and read his email in Pine, just like the ancient Egyptians, because those tools are sufficient for his needs.  It made me realize there can be something futuristic about intentionally choosing retro.</p>
+
+<p>So I built myself a web site using only HTML and CSS and a little bit of Javascript, all already antiquated tools at that time.</p>
+
+<p>Fast forward a decade or so, and my simple web site fortunately still garners appreciation from colleagues and friends for its elegance.  However, it is lacking in important functionality that I have long desired, namely support for a blog.</p>
+
+<p>Recently I took some time to revamp and extend my web site, using the Jekyll static site generating framework.  In addition to supporting blog posts, it is also much easier to update and modify, as  described shortly.  This updated site was encapsulated into a Jekyll theme in case anyone else would like to make use of it.</p>
+
+<h2 id="a-little-bit-about-jekyll">A little bit about Jekyll</h2>
+
+<p>Jekyll is a static site generator, meaning that you start out with the pieces of a web site, assemble it using Jekyll’s automation, and post the result to your own server or push changes to GitHub.  You don’t need to have any special software running on the host server.</p>
+
+<p>The way Jekyll handles blogs is different from the database-driven approach you might be familiar with.  Here there is no database.  You write your posts as simple Markdown files, build the site with Jekyll, then push the changes.  Functionality for searching through or sorting the blog posts can also be implemented, although I’m currently not do so in Ghostly.</p>
+
+<p>Jekyll is written in Ruby, though you don’t have to know any Ruby to use it.  Instead Jekyll combines the power of three different simple languages: Markdown, SCSS, and Liquid.</p>
+
+<ul>
+  <li><a href="https://kramdown.gettalong.org/quickref.html">Markdown</a>  is a very simple markup language for effortlessly composing marked-up text.  This is how you write most of your content in Jekyll, e.g. blog posts.</li>
+  <li><a href="https://sass-lang.com/documentation/syntax/">SCSS</a>, or “Sassy CSS”, is an extension of CSS that includes support for handy features such as variable definitions, e.g. “<code class="highlighter-rouge">$textfont: Georgia</code>”.  This gives you flexible control over the style of your site.</li>
+  <li><a href="https://shopify.github.io/liquid/">Liquid</a> is a templating language that provides a rich set of logic and control options for creating your static web site from its pieces.</li>
+</ul>
+
+<p>In Jekyll, you define page <em>templates</em> which are a mixture of HTML and Liquid.  Individual pages are written in Markdown mixed with HTML and Liquid.  Pages contain your content, while templates control the site structure and layout and are considered part of the theme. Styles are written in SCSS, a superset of CSS.</p>
+
+<p>Jekyll processes the Liquid logic, converts the Markdown into its HTML equivalent, pushes the content from the pages into the appropriate templates, converts the SCSS into standard CSS, and builds you a web site that appears to have been written exclusively in HTML and CSS.</p>
+
+<p>You can probably see now why Jekyll is referred to as a “static site generator”.</p>
+
+<p>This may seem like a lot of work to generate something we could have coded by hand.  However, if you’ve ever wanted to, say, change the header or footer on a half-dozen web pages, you begin to understand why a static site generator has some appeal.</p>
+
+<p>If we’re going to build a site with a lot of moving parts, such as a blog, then inserting all the content by hand begins to feel very cumbersome.</p>
+
+<h2 id="markdown">Markdown</h2>
+
+<p>One of the best things about Jekyll is that you can write most of your content in Markdown.  For example, two of my publication references are written as</p>
+
+<div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">1.</span>  Lilly, J. M., A. M. Sykulski, J. J. Early, and S. C. Olhede (2017). Fractional Brownian motion, the Matérn process, and stochastic modeling of turbulent dispersion. _Nonlinear Processes in Geophysics_, <span class="gs">**24**</span>: 481–514. <span class="p">[</span><span class="nv">doi 10.5194/npg-24-481-2017</span><span class="p">](</span><span class="sx">https://doi.org/10.5194/npg-24-481-2017</span><span class="p">)</span>
+<span class="p">1.</span>  Lilly, J. M. (2018). Kinematics of a fluid ellipse in a linear flow. _Fluids_, <span class="gs">**3**</span> (1): 1–29. <span class="p">[</span><span class="nv">doi 10.3390/fluids3010016</span><span class="p">](</span><span class="sx">http://doi.org/10.3390/fluids3010016</span><span class="p">)</span>
+</code></pre></div></div>
+
+<p>which are then converted by Jekyll into HTML to yield</p>
+
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">&lt;ol&gt;</span>
+  <span class="nt">&lt;li&gt;</span>Lilly, J. M., A. M. Sykulski, J. J. Early, and S. C. Olhede (2017). Fractional Brownian motion, the Matérn process, and stochastic modeling of turbulent dispersion. <span class="nt">&lt;em&gt;</span>Nonlinear Processes in Geophysics<span class="nt">&lt;/em&gt;</span>, <span class="nt">&lt;strong&gt;</span>24<span class="nt">&lt;/strong&gt;</span>: 481–514. <span class="nt">&lt;a</span> <span class="na">href=</span><span class="s">"https://doi.org/10.5194/npg-24-481-2017"</span><span class="nt">&gt;</span>doi 10.5194/npg-24-481-2017<span class="nt">&lt;/a&gt;&lt;/li&gt;</span>
+  <span class="nt">&lt;li&gt;</span>Lilly, J. M. (2018). Kinematics of a fluid ellipse in a linear flow. <span class="nt">&lt;em&gt;</span>Fluids<span class="nt">&lt;/em&gt;</span>, <span class="nt">&lt;strong&gt;</span>3<span class="nt">&lt;/strong&gt;</span> (1): 1–29. <span class="nt">&lt;a</span> <span class="na">href=</span><span class="s">"http://doi.org/10.3390/fluids3010016"</span><span class="nt">&gt;</span>doi 10.3390/fluids3010016<span class="nt">&lt;/a&gt;&lt;/li&gt;</span>
+<span class="nt">&lt;/ol&gt;</span>
+</code></pre></div></div>
+
+<p>As you can see, writing links, marking up text, and indicating a list element are all easier and more readable in Markdown.  Finally the HTML is rendered in the browser as</p>
+
+<ol>
+  <li>Lilly, J. M., A. M. Sykulski, J. J. Early, and S. C. Olhede (2017). Fractional Brownian motion, the Matérn process, and stochastic modeling of turbulent dispersion. <em>Nonlinear Processes in Geophysics</em>, <strong>24</strong>: 481–514. <a href="https://doi.org/10.5194/npg-24-481-2017">doi 10.5194/npg-24-481-2017</a></li>
+  <li>Lilly, J. M. (2018). Kinematics of a fluid ellipse in a linear flow. <em>Fluids</em>, <strong>3</strong> (1): 1–29. <a href="http://doi.org/10.3390/fluids3010016">doi 10.3390/fluids3010016</a></li>
+</ol>
+
+<p>after applying any CSS styling.  If you’re viewing this on my web site, you’ll see that link texts have been wrapped curly braces, {}, a Ghostly stylistic choice that results from a Javascript call.</p>
+
+<p>A handy feature of lists in Markdown is that the numbers used to denote the list are irrelevant.  In other words, a list containing items all denoted by “1.” leads to “1.”, “2.”, “3.”, etc. Thus, you don’t have to renumber your list if an item is added or removed.</p>
+
+<p>The particular dialect of Markdown that is used with Jekyll is called <a href="https://kramdown.gettalong.org/quickref.html">kramdown</a>.  In addition to its basic features, kramdown supports <a href="https://kramdown.gettalong.org/syntax.html">extended features</a> such as the useful ability to specify an the class of the resulting HTML object with the <code class="highlighter-rouge">{: .class}</code> notation.</p>
+
+<p>Further details of Jekyll and its component languages are well handled in  the <a href="https://jekyllrb.com/docs/">documentation</a>, particularly the <a href="https://jekyllrb.com/docs/step-by-step/01-setup/">tutorial</a>, and in documents referred to therein.  We turn now to describing the Ghostly theme.</p>
+
+<!--[Theme preview](https://jekyll.github.io/minima/)
+![minima theme preview](/screenshot.png)-->
+
+<h2 id="installation">Installation</h2>
+
+<h3 id="installing-with-a-skeleton-site">Installing with a skeleton site</h3>
+
+<p>The easiest way to get started with Ghostly is with a skeleton version of my web site that you can edit and customize.</p>
+
+<p>Download Ghostly from <a href="https://github.com/jonathanlilly/ghostly">GitHub</a>, rename the directory to “<code class="highlighter-rouge">ghostly</code>”, and place this directory into an otherwise empty base directory.  Then copy the contents of the subdirectory “<code class="highlighter-rouge">/ghostly/skeleton</code>” into the top-level base directory.</p>
+
+<p>Next run “<code class="highlighter-rouge">gem install jekyll bundler</code>”, followed by “<code class="highlighter-rouge">bundle install</code>” from within the base directory to install any missing gems. Jekyll is expecting this directory to be a git repository, so also type “<code class="highlighter-rouge">git init</code>” to prevent Jekyll from complaining.  Finally</p>
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">bundle</span> <span class="nb">exec</span> <span class="n">jekyll</span> <span class="n">serve</span> <span class="o">--</span><span class="n">trace</span>
+</code></pre></div></div>
+<p>runs a bare-bones copy of my site that you can view in your browser at the address http://localhost:4000/.</p>
+
+<p>In your base directory you will find two configuration files.  The first, called “<code class="highlighter-rouge">Gemfile</code>”, tells Ruby which gems (Ruby parlance for packages) are required.  You will find the line</p>
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">gem</span> <span class="s2">"ghostly"</span><span class="p">,</span> <span class="ss">path: </span><span class="s1">'./ghostly'</span>  
+</code></pre></div></div>
+<p>in the <code class="highlighter-rouge">Gemfile</code>, stating that the Ghostly theme is located in the same directory that contains the <code class="highlighter-rouge">Gemfile</code>.
+The second is called “<code class="highlighter-rouge">_config.yml</code>” and has essential configuration information for Jekyll itself.  This file has the important line</p>
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">exclude</span><span class="pi">:</span>
+   <span class="pi">-</span> <span class="s">ghostly/skeleton</span>
+</code></pre></div></div>
+<p>which prevents Jekyll from trying to process the example files stored in the skeleton directory.  Both of these files will be discussed in more detail shortly.</p>
+
+<h3 id="installing-from-a-gemfile">Installing from a Gemfile</h3>
+
+<p>Alternatively to the above steps, you could follow the <a href="https://jekyllrb.com/docs/">instructions</a> for creating a new Jekyll site, and then <a href="https://jekyllrb.com/docs/themes/#installing-a-theme">swap out</a> the default Minima theme for Ghostly by installing the Ghostly gem.  Honestly, however, this is going to be a lot more cumbersome.  To begin with, you will not have a working template because Ghostly is expecting a set of Markdown pages (publications, vita, etc.) that are not present in the default Jekyll installation.</p>
+
+<p>Moreover, you will not be able to modify the Ghostly theme files unless you also follow <a href="https://jekyllrb.com/docs/themes/#converting-gem-based-themes-to-regular-themes">these additional steps</a>.  For some reason Jekyll thinks it is a good idea, upon installing a gem-based theme, to hide the theme files in an obscure location.  Personally, I think you are going to want to have these available to read if not to modify.</p>
+
+<p>If you do choose this route, you’ll still need to find the  <code class="highlighter-rouge">_plugins</code> directory that is located in <code class="highlighter-rouge">skeleton</code> and copy it to the base directory containing the project.  This is because Ruby is expecting plugins to be located in the base directory and not inside the theme, and I was not able to figure out a way to package this needed plugin together with the theme.</p>
+
+<h2 id="customizing-ghostly">Customizing Ghostly</h2>
+
+<p>Before continuing you’ll need to know a little bit about Jekyll.  At a minimum, I’d recommend reading the   <a href="https://jekyllrb.com/docs/step-by-step/01-setup/">tutorial</a> and familiarizing yourself with Jekyll’s
+<a href="https://jekyllrb.com/tutorials/orderofinterpretation/">order of operations</a>
+and <a href="https://jekyllrb.com/docs/structure/">directory structure</a>.  I’d also recommend the Readme for Jekyll’s default <a href="https://github.com/jekyll/minima/blob/master/README.md">Minima</a> theme, keeping in mind that there are some differences with Ghostly.  This should be enough to get you started.</p>
+
+<p>The <code class="highlighter-rouge">_config.yml</code> file in your base directory contains the following information, in the form of key-value pairs:</p>
+<div class="language-yaml small highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">title</span><span class="pi">:</span> <span class="s">j.m. lilly</span>
+<span class="na">author</span><span class="pi">:</span> <span class="s">Jonathan M. Lilly</span>
+<span class="na">description</span><span class="pi">:</span> <span class="pi">&gt;-</span> <span class="c1"># this means to ignore newlines until "baseurl:"</span>
+  <span class="s">The research website of Jonathan M. Lilly.</span>
+<span class="na">baseurl</span><span class="pi">:</span> <span class="s2">"</span><span class="s">"</span> <span class="c1"># the subpath of your site, e.g. /blog</span>
+<span class="na">url</span><span class="pi">:</span> <span class="s2">"</span><span class="s">http://jmlilly.net"</span> <span class="c1"># the base hostname &amp; protocol for your site</span>
+
+<span class="c1"># The order to list your pages in the nav bar, separated by single spaces</span>
+<span class="c1"># The first element is whatever you would like index.html to be called</span>
+<span class="c1"># All others refer to files with the ".md" extension in your base directory</span>
+<span class="na">pageorder</span><span class="pi">:</span> <span class="s2">"</span><span class="s">home</span><span class="nv"> </span><span class="s">blog</span><span class="nv"> </span><span class="s">publications</span><span class="nv"> </span><span class="s">software</span><span class="nv"> </span><span class="s">data</span><span class="nv"> </span><span class="s">talks</span><span class="nv"> </span><span class="s">course</span><span class="nv"> </span><span class="s">vita"</span>
+<span class="c1"># The order to list social media in the footer, separated by single spaces</span>
+<span class="na">socialorder</span><span class="pi">:</span> <span class="s2">"</span><span class="s">email</span><span class="nv"> </span><span class="s">github</span><span class="nv"> </span><span class="s">googlescholar</span><span class="nv"> </span><span class="s">twitter</span><span class="nv"> </span><span class="s">researchgate"</span>
+
+<span class="c1"># Contact and social media information ... comment out what you don't have</span>
+<span class="na">email</span><span class="pi">:</span> <span class="s">eponym@jmlilly.net</span>
+<span class="na">twitter_username</span><span class="pi">:</span> <span class="s">jmlilly</span>
+<span class="na">github_username</span><span class="pi">:</span>  <span class="s">jonathanlilly</span>
+<span class="na">researchgate_username</span><span class="pi">:</span> <span class="s">Jonathan_Lilly</span>
+<span class="na">googlescholar_id</span><span class="pi">:</span> <span class="s">os-j4rIAAAAJ</span>
+<span class="c1"># Find this from your Google Scholar address, after "user=" and before the "&amp;"</span>
+<span class="c1"># e.g. https://scholar.google.com/citations?user=os-j4rIAAAAJ&amp;hl=en</span>
+<span class="na">mailchimp_username</span><span class="pi">:</span> <span class="s">jmlilly</span> <span class="c1">#Whatver you log in with</span>
+<span class="na">mailchimp_user_id</span><span class="pi">:</span> <span class="s">5c78995e12e1229e3cf788002</span>
+<span class="na">mailchimp_audience_id</span><span class="pi">:</span> <span class="s">b3df7d8423</span>  
+<span class="c1"># To find your mailchimp IDs is to go to Create &gt; Signup Form &gt; Embedded Form,</span>
+<span class="c1"># then look for a string like u=5c78995e12e1229e3cf788002&amp;amp;id=b3df7d8423</span>
+<span class="c1"># Your user ID is between "u=" and "&amp;amp", and the audience ID is after "id="</span>
+<span class="c1"># If the form doesn't work, compare your code with that in mailchimp.html</span>
+<span class="na">commentbox_id</span><span class="pi">:</span> <span class="s">5640936277147648-proj</span>
+
+<span class="c1"># Theme specifications</span>
+<span class="na">theme</span><span class="pi">:</span> <span class="s">ghostly</span>
+<span class="na">ghostly</span><span class="pi">:</span>
+  <span class="na">date_format</span><span class="pi">:</span> <span class="s2">"</span><span class="s">%B</span><span class="nv"> </span><span class="s">%-d,</span><span class="nv"> </span><span class="s">%Y"</span> <span class="c1"># Corresponds to e.g. January 1, 2020</span>
+  <span class="c1"># see http://shopify.github.io/liquid/filters/date/ for customization</span>
+  <span class="na">backbutton</span><span class="pi">:</span> <span class="s">&lt;a href="javascript:history.back()"&gt;{&amp;xlarr; Back}&lt;/a&gt;</span>
+  <span class="na">morebutton</span><span class="pi">:</span> <span class="s2">"</span><span class="s">&amp;xrarr;"</span> <span class="c1"># Styling for back and more buttons respectively</span>
+  <span class="na">linkwrapping</span><span class="pi">:</span> <span class="no">true</span> <span class="c1">#Enable default Ghostly behavior of wrapping</span>
+  <span class="c1"># html links in braces {} and others (e.g. to pdfs) in brackets []</span>
+  <span class="na">blogsymbol</span><span class="pi">:</span> <span class="s">&lt;span&gt;&amp;xodot;&lt;/span&gt;</span> <span class="c1"># Symbol to return from post to blog page</span>
+  <span class="c1"># Note that in the above html code, no spaces are allow around the ":"s</span>
+  <span class="na">itemseparator</span><span class="pi">:</span> <span class="s2">"</span><span class="s">|"</span> <span class="c1"># Symbol to separate items in horizontal lists</span>
+
+<span class="c1"># Enable Google Analytics</span>
+<span class="c1"># See https://support.google.com/analytics/answer/1008080?hl=en to find your ID</span>
+<span class="na">google_analytics</span><span class="pi">:</span> <span class="s">UA-361324-2</span>
+
+<span class="c1"># Location the site is to be built. The source can't be inside the destination</span>
+<span class="na">destination</span><span class="pi">:</span> <span class="s">../site</span>  <span class="c1">#Build into a directory at the same level as the source</span>
+
+<span class="c1"># Files or directories inside the destination that you don't want to clobber</span>
+<span class="na">keep_files</span><span class="pi">:</span> <span class="pi">[</span><span class="nv">Readme.md</span><span class="pi">,</span> <span class="nv">course</span><span class="pi">,</span> <span class="nv">doc</span><span class="pi">,</span> <span class="nv">figures</span><span class="pi">,</span> <span class="nv">images</span><span class="pi">,</span> <span class="nv">papers</span><span class="pi">,</span> <span class="nv">talks</span><span class="pi">,</span> <span class="nv">videos</span><span class="pi">,</span> <span class="nv">.gitignore</span><span class="pi">]</span>
+
+<span class="c1">##################################################################</span>
+<span class="c1"># The following values won't need to be changed unless you modify Ghostly</span>
+
+<span class="c1"># Set kramdown to globally parse within html tags</span>
+<span class="c1"># See https://kramdown.gettalong.org/syntax.html</span>
+<span class="na">kramdown</span><span class="pi">:</span>
+    <span class="na">parse_block_html</span><span class="pi">:</span> <span class="no">true</span>    
+
+<span class="na">plugins</span><span class="pi">:</span>
+  <span class="pi">-</span> <span class="s">jekyll-feed</span> <span class="c1"># For generating a feed of blog posts</span>
+  <span class="pi">-</span> <span class="s">jekyll-seo-tag</span> <span class="c1">#For search engine optimization</span>
+  <span class="c1"># See https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md and</span>
+  <span class="c1"># https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/advanced-usage.md</span>
+
+<span class="c1"># Exclude from processing</span>
+<span class="na">exclude</span><span class="pi">:</span>
+   <span class="pi">-</span> <span class="s">minima</span>
+   <span class="pi">-</span> <span class="s">ghostly/skeleton</span>
+</code></pre></div></div>
+
+<p>You’re obviously going to want to edit the values in this file.  In addition to your personal information, some style and build options are also specified herein.</p>
+
+<p>The other files in your base directory all have the extension “<code class="highlighter-rouge">.md</code>” and will contain the primary content of your web pages.  In the skeleton setup, these are the home page, <code class="highlighter-rouge">index.md</code>, together with</p>
+
+<blockquote>
+  <p><code class="highlighter-rouge">blog.md</code>, <code class="highlighter-rouge">course.md</code>, <code class="highlighter-rouge">data.md</code>, <code class="highlighter-rouge">publications.md</code>, <code class="highlighter-rouge">software.md</code>, <code class="highlighter-rouge">talks.md</code>, <code class="highlighter-rouge">vita.md</code></p>
+</blockquote>
+
+<p>the names of which appear in the navigation bar in the order specified in the <code class="highlighter-rouge">pageorder</code> variable defined above in <code class="highlighter-rouge">_config.yml</code>.</p>
+
+<p>If you would like your site to be composed of other files, just create new Markdown files, e.g. <code class="highlighter-rouge">research.md</code>, including a front matter header as in the other files.  Then modify <code class="highlighter-rouge">pageorder</code> to set the order for your navigation bar.</p>
+
+<p>The “<code class="highlighter-rouge">linkwrapping</code>” variable here sets the default Ghostly style to wrap HTML links in curly braces, {}, and other types of links (e.g. to downloads) in square brackets, []. This effect can be disabled by setting the variable to false.</p>
+
+<p>Another place you may want to edit in order to customize things is the top-level style file, <code class="highlighter-rouge">ghostly/sass/ghostly.scss</code>.  It’s worth looking at this file.</p>
+
+<div class="language-scss small highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">// CSS for the Ghostly Jekyll theme by J.M. Lilly</span>
+<span class="c1">// See /ghostly/_base.scss for the rest</span>
+
+<span class="k">@charset</span> <span class="s2">"utf-8"</span><span class="p">;</span>
+
+<span class="c1">// Overall width of the site</span>
+<span class="nv">$textwidth</span><span class="p">:</span> <span class="m">40em</span><span class="p">;</span>
+
+<span class="c1">// Text alignment centered</span>
+<span class="nv">$headeralign</span><span class="p">:</span><span class="nb">center</span><span class="p">;</span> <span class="nv">$footeralign</span><span class="p">:</span><span class="nb">center</span><span class="p">;</span> <span class="nv">$bodyalign</span><span class="p">:</span><span class="nb">justify</span><span class="p">;</span> <span class="nv">$figtitlealign</span><span class="p">:</span> <span class="nb">center</span><span class="p">;</span>
+
+<span class="c1">// Text alignment leftish</span>
+<span class="c1">//$headeralign:left; $footeralign: center; $bodyalign:left; $figtitlealign: left;</span>
+
+<span class="c1">// The ghostly color scheme</span>
+<span class="nv">$background</span><span class="p">:</span><span class="mh">#F8F8FF</span><span class="p">;</span> <span class="nv">$linkcolor</span><span class="p">:</span><span class="mh">#666666</span><span class="p">;</span> <span class="nv">$deemphasis</span><span class="p">:</span><span class="mh">#B8B8B8</span><span class="p">;</span> <span class="nv">$accent</span><span class="p">:</span><span class="mh">#33AA99</span><span class="p">;</span>
+
+<span class="c1">// The oceanic color scheme</span>
+<span class="c1">//$background:#FCF9FF; $linkcolor:#336699; $deemphasis:#FF9700; $accent:#33AA99;</span>
+
+<span class="c1">// Fonts</span>
+<span class="nv">$textfont</span><span class="p">:</span><span class="n">Georgia</span><span class="p">;</span> <span class="nv">$codefont</span><span class="p">:</span><span class="n">Courier</span><span class="p">;</span>
+
+<span class="c1">//Letter spacing</span>
+<span class="nv">$normal</span><span class="p">:</span><span class="m">0</span><span class="mi">.06em</span><span class="p">;</span> <span class="nv">$wide</span><span class="p">:</span><span class="m">0</span><span class="mi">.1em</span><span class="p">;</span> <span class="nv">$verywide</span><span class="p">:</span><span class="m">0</span><span class="mi">.2em</span><span class="p">;</span>
+
+<span class="c1">// Text for title and nav</span>
+<span class="nv">$titlesize</span><span class="p">:</span> <span class="nb">x-large</span><span class="p">;</span> <span class="nv">$titletransform</span><span class="p">:</span> <span class="nb">lowercase</span><span class="p">;</span>
+<span class="nv">$navsize</span><span class="p">:</span> <span class="nb">large</span><span class="p">;</span> <span class="nv">$navtransform</span><span class="p">:</span> <span class="nb">lowercase</span><span class="p">;</span> <span class="nv">$activenav</span><span class="p">:</span> <span class="nb">overline</span><span class="p">;</span>
+
+<span class="c1">// Import partials</span>
+<span class="k">@import</span>
+  <span class="s2">"ghostly/normalize"</span><span class="o">,</span> <span class="o">//</span> <span class="n">css</span> <span class="n">normalize</span> <span class="ow">and</span> <span class="n">reset</span> <span class="n">thanks</span> <span class="n">to</span> <span class="n">Elad</span> <span class="n">Shechter</span><span class="o">,</span> <span class="n">see</span>
+  <span class="s2">"ghostly/reset"</span><span class="o">,</span> <span class="o">//</span> <span class="n">https</span><span class="o">://</span><span class="nb">medium</span><span class="o">.</span><span class="n">com</span><span class="o">/@</span><span class="n">elad</span><span class="o">/</span><span class="n">normalize-css-or-css-reset-9d75175c5d1e</span>
+  <span class="s2">"ghostly/github"</span><span class="o">,</span>  <span class="o">//</span> <span class="n">Syntax</span> <span class="n">highlighting</span> <span class="n">using</span> <span class="n">the</span> <span class="n">Github</span> <span class="n">color</span> <span class="n">scheme</span>
+  <span class="s2">"ghostly/lightbox"</span><span class="o">,</span> <span class="o">//</span> <span class="n">Styling</span> <span class="n">for</span> <span class="n">the</span> <span class="n">lightbox</span> <span class="n">package</span> <span class="n">by</span> <span class="n">Lokesh</span> <span class="n">Dhakar</span>
+  <span class="s2">"ghostly/base"</span> <span class="o">//</span> <span class="n">Base</span> <span class="n">styling</span> <span class="n">is</span> <span class="n">last</span> <span class="n">as</span> <span class="n">it</span> <span class="n">overrides</span> <span class="n">some</span> <span class="n">of</span> <span class="n">the</span> <span class="n">others</span>
+<span class="p">;</span>
+
+<span class="c1">// github.scss is created with rougify style github &gt; _github.scss</span>
+<span class="c1">// See https://bnhr.xyz/2017/03/25/add-syntax-highlighting-to-your-jekyll-site-with-rouge.html</span>
+<span class="c1">// See https://spsarolkar.github.io/rouge-theme-preview/ for more syntax themes</span>
+</code></pre></div></div>
+
+<p>Variables such as <code class="highlighter-rouge">$textwidth</code> set the overall properites of the site.  For example, uncommenting the Oceanic color scheme and leftish text alignment, and setting “<code class="highlighter-rouge">linkwrapping: false</code>” in the file <code class="highlighter-rouge">_config.yml</code>, gives a different look to the site.</p>
+
+<p>This file sets parameters for the main styling, while the included partials handle the details.  These live in the directory <code class="highlighter-rouge">ghostly/sass/ghostly</code> and all have names beginning with an underscore, though the underscores are not needed in the import statement.</p>
+
+<p>For example,  <code class="highlighter-rouge">_github.scss</code> is in particular for highlighting code syntax; this can be swapped out for another style as described below.</p>
+
+<p>Nearly all the styling is accomplished in <code class="highlighter-rouge">_base.scss</code>, so you’ll want to edit that if you want to substantially modify the styling.</p>
+
+<hr />
+
+<h2 id="special-features-in-ghostly">Special features in Ghostly</h2>
+
+<h3 id="a-double-blog">A double blog</h3>
+
+<p>The most substantial feature of Ghostly is a double blog.  There is a blog on the home page, intended for short posts such as research announcements, press releases, etc.  A second blog, under <code class="highlighter-rouge">blog</code>, is for longer pieces of writing.</p>
+
+<p>These two blogs are implemented through the use of categories.  A post you would like to have show up on the home page has “<code class="highlighter-rouge">categories: homepage</code>” in its front matter.   A post that you would like to have show up on the blog has “<code class="highlighter-rouge">categories: blog</code>” in its front matter.</p>
+
+<p>Then, a <a href="https://ajclarkson.co.uk/blog/jekyll-category-post-navigation">Jekyll plugin</a> by A. J. Clarkson for navigating through all the posts in a particular category—a functionality Jekyll is lacking out of the box—is employed to keep the two sets of posts separate.  The navigation is set to loop around, crossing from the last post back to the beginning and vice-versa.</p>
+
+<p>You could of course easily disable the home page blog if you prefer to have static content.</p>
+
+<p>Jekyll has two ways of keeping track of posts, <a href="https://jekyllrb.com/docs/posts/#categories-and-tags">categories and tags</a>. Since the categories are here employed to implement the double blog, it would be better to use tags for your organization.  If you happen to need to use multiple categories on the same posts, make sure that either “<code class="highlighter-rouge">blog</code>” or “<code class="highlighter-rouge">homepage</code>” is the first category listed.  Labelling the same post both “<code class="highlighter-rouge">homepage</code>” and “<code class="highlighter-rouge">blog</code>”, in order to have the same post showing up in two different places, won’t work with the way the double blog is implemented.</p>
+
+<h3 id="commenting-via-commentbox">Commenting via CommentBox</h3>
+
+<p>Ghostly supports commenting via <a href="https://commentbox.io">CommentBox</a>.  I chose this provider because, of the <a href="https://darekkay.com/blog/static-site-comments/">many</a> third-party comment providers, CommentBox has both a very professional-looking presentation as well as a free tier.</p>
+
+<p>To use CommentBox, you need to sign up and place your ID in the “<code class="highlighter-rouge">commentbox_id:</code>” line in the <code class="highlighter-rouge">_config.yml</code>.  Then for any page or post you would like to enable comments on, simply place the line “<code class="highlighter-rouge">commentbox: true</code>” in the front matter.</p>
+
+<h3 id="image-galleries-with-lightbox">Image galleries with Lightbox</h3>
+
+<p>Ghostly also comes with a convenient package for making beautiful pop-up images galleries, <a href="http://lokeshdhakar.com/projects/lightbox2/">Lightbox v2.11.1</a> by Lokesh Dhakar.  See <code class="highlighter-rouge">data.md</code> in the skeleton for an example of its usage, which is then rendered as the gallery at <a href="http://jmlilly.net/data">jmlilly.net/data</a>.  To enable Lightbox on a page or post, again just place ““<code class="highlighter-rouge">lightbox: true</code>” in the front matter.</p>
+
+<h3 id="syntax-highlighting">Syntax highlighting</h3>
+
+<p>Jekyll automatically highlights the syntax of code snippets.  Various color schemes can be chosen, and Ghostly uses a highlighting theme called GitHub.</p>
+
+<p>Different themes can be previewed <a href="https://spsarolkar.github.io/rouge-theme-preview/">here</a>.  You can create a style file corresponding to these themes by following <a href="https://bnhr.xyz/2017/03/25/add-syntax-highlighting-to-your-jekyll-site-with-rouge.html">these instructions</a>, which can then be placed into the directory <code class="highlighter-rouge">ghostly/sass/ghostly</code> and imported into the main style file <code class="highlighter-rouge">ghostly/sass/ghostly.scss</code> instead of <code class="highlighter-rouge">_github.scss</code>.</p>
+
+<h3 id="search-engine-optimization">Search engine optimization</h3>
+
+<p>Finally Jekyll, like the default Minima theme, comes with the <a href="https://github.com/jekyll/jekyll-seo-tag">jekyll-seo-tag</a> plugin for search engine optimization.  Read <a href="https://github.com/jekyll/jekyll-seo-tag#usage">this</a> to learn how to set it up.</p>
+
+<hr />
+
+<h2 id="includes">Includes</h2>
+
+<p>Ghostly includes <a href="https://github.com/jquery/jquery">jQuery v3.4.1</a> by the JS Foundation and other contributors, <a href="http://lokeshdhakar.com/projects/lightbox2/">Lightbox v2.11.1</a> by Lokesh Dhakar, and <a href="https://github.com/necolas/normalize.css">normalize.css</a> by Nicolas Gallagher and Jonathan Neal, all of which are released under the terms of the MIT license, as well as an unlicensed <a href="https://ajclarkson.co.uk/blog/jekyll-category-post-navigation">Jekyll plugin</a> by A. J. Clarkson modified by myself.</p>
+
+<hr />
+
+<h2 id="license-and-contact">License and contact</h2>
+
+<p>This theme is available as open source under the terms of the <a href="http://opensource.org/licenses/MIT">MIT License</a>.</p>
+
+<p>Ghostly is hosted at <a href="https://github.com/jonathanlilly/ghostly">GitHub</a> where you are welcome to report bugs, fork, contribute, etc. Feel free to alteratively contact me at eponym@jmlilly.net with any comments or questions.</p>]]></content><author><name>Samuel W. Stevens</name></author><category term="blog" /><category term="code" /><summary type="html"><![CDATA[Ghostly is a blog-enabled, text-centered Jekyll theme with a minimal aesthetic and fade transitions, intended to meet the needs of academic researchers. This theme comes equipped with a double blog, a lightbox, support for online commenting, and a skeleton site with a readily customizable style.]]></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/blog/2019/12/23/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2019-12-23T01:26:59-08:00</published><updated>2019-12-23T01:26:59-08:00</updated><id>http://localhost:4000/blog/2019/12/23/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/blog/2019/12/23/welcome-to-jekyll.html"><![CDATA[<p><em>This is the post generated automatically by Jekyll’s default installation</em></p>
+
+<p>You’ll find this post in your <code class="highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+
+<p>Jekyll requires blog post files to be named according to the following format:</p>
+
+<p><code class="highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
+
+<p>Where <code class="highlighter-rouge">YEAR</code> is a four-digit number, <code class="highlighter-rouge">MONTH</code> and <code class="highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+
+<p>Jekyll also offers powerful support for code snippets:</p>
+
+<figure class="highlight">
+  <pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
+<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre>
+</figure>
+
+<p>Check out the <a href="https://jekyllrb.com/docs/home/">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll/">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name>Samuel W. Stevens</name></author><category term="blog" /><summary type="html"><![CDATA[This is the post generated automatically by Jekyll’s default installation]]></summary></entry></feed>
