@@ -20,8 +20,15 @@ author: Samuel W. Stevens
 ###############################################
 
 navbar-links:
+  Projects:
+    - Swish Floats: "swish"
+    - Salish Sea: "salish"
+    - TReX Deep: "trex"
+    - Mode Water: "stmw"
+
   Publications: "pubs"
   CV: "cv"
+  Outreach: "outreach"
 
 ################
 # --- Logo --- #
