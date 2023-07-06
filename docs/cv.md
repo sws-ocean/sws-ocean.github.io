@@ -127,7 +127,7 @@ description: Sam Stevens Oceanographer- this page outlines my curriculum vitae
 <li>
       <strong>2020 AGU Ocean Sciences Meeting, San Diego, USA</strong>
       <br>
-      Poster presentation titled "Using seasonality to trace water masses in a coastal ocean"
+      "Using seasonality to trace water masses in a coastal ocean"
       <br>
       Authors: S.W. Stevens, R. Pawlowicz
 </li>
@@ -135,7 +135,7 @@ description: Sam Stevens Oceanographer- this page outlines my curriculum vitae
 <li>
       <strong>2020 AGU Ocean Sciences Meeting, San Diego, USA</strong>
       <br>
-      Poster presentation titled "Meridional Heat and Salinity Budgets of the Sargasso Sea Inferred from Two Decades of Ocean Time-series and Transect Observations"
+      "Meridional Heat and Salinity Budgets of the Sargasso Sea Inferred from Two Decades of Ocean Time-series and Transect Observations"
       <br>
       Authors: R.J. Johnson, N.R. Bates, M.W. Lomas, S.W. Stevens, P. Lethaby, Z. Anderson, F. Pacheco, A. Knap
 </li>
@@ -143,7 +143,7 @@ description: Sam Stevens Oceanographer- this page outlines my curriculum vitae
 <li>
       <strong>2017 ASLO Aquatic Sciences Meeting, Honolulu, USA</strong>
       <br>
-      Oral presentation titled "Investigating the Interannual and Mesoscale Erosion of North Atlantic Subtropical Mode Water Within the Sargasso Sea"
+      "Investigating the Interannual and Mesoscale Erosion of North Atlantic Subtropical Mode Water Within the Sargasso Sea"
       <br>
       Authors: S.W. Stevens, R.J. Johnson, N.R. Bates
 </li>
