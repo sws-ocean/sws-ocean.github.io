@@ -25,7 +25,7 @@ figure {text-align: center;}
 <!--<h1>Salish Sea</h1>-->
 <p align="center"> <small><i>The Salish Sea, with its ancestral name, holds deep cultural significance for the First Nations people who have cared for its waters for generations. Conducting my PhD research in and around the Salish Sea has been a privilege, and I am grateful for the ongoing stewardship by these communities. I acknowledge and honor their profound connection to the Salish Sea, and I hope to continue learning from and working alongside them for its preservation.</i></small> </p>
 
-<h2> The intermediate circulation of the Strait of Georgia </h2>
+<!--<h2> The intermediate circulation of the Strait of Georgia </h2>-->
 
 The Greater Vancouver area has a population of over 2.5 million people. Where does all of the wastewater from this population go? After it has been treated in various treatments plants, it is released below the into coastal waters via various different outfalls. Though it has been treated, some persistant pollutants remain and it is important to know where these pollutants go and how they are building up in the coastal system.
 
