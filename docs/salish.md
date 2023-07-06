@@ -1,7 +1,9 @@
 ---
 layout: page
-title: 
-subtitle: Salish Sea
+title: Salish Sea
+subtitle: Measuring subsurface circulation in the Salish Sea
+permalink: salish
+description: Sam Stevens Oceanographer- this page outlines my research on the intermediate water of the Strait of Georgia, Salish Sea at UBC
 ---
 
 <!-- Google tag (gtag.js) -->
@@ -20,7 +22,7 @@ h3 {text-align: justify;}
 figure {text-align: center;}
 </style>
 
-<h1>Salish Sea</h1>
+<!--<h1>Salish Sea</h1>-->
 <p align="center"> <small><i>The Salish Sea, with its ancestral name, holds deep cultural significance for the First Nations people who have cared for its waters for generations. Conducting my PhD research in and around the Salish Sea has been a privilege, and I am grateful for the ongoing stewardship by these communities. I acknowledge and honor their profound connection to the Salish Sea, and I hope to continue learning from and working alongside them for its preservation.</i></small> </p>
 
 <h2> The intermediate circulation of the Strait of Georgia </h2>

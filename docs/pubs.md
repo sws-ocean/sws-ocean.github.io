@@ -1,7 +1,9 @@
 ---
 layout: page
-title: 
-subtitle: Publications
+title: Publications
+subtitle: 
+permalink: pubs
+description: Sam Stevens Oceanographer- this page outlines my publications
 ---
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-XFFDFDXETF"></script>

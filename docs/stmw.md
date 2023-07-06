@@ -1,7 +1,9 @@
 ---
 layout: page
-title: 
-subtitle: Subtropical Mode Water
+title: Subtropical Mode Water
+subtitle: North Atlantic Subtropical Mode Water variability at the Bermuda Atlantic Time-series Study (BATS)
+permalink: stmw
+description: Sam Stevens Oceanographer- this page outlines my research on North Atlantic Subtropical Mode Water at BATS
 ---
 
 <!-- Google tag (gtag.js) -->
@@ -21,7 +23,7 @@ figure {text-align: center;}
 </style>
 
 
-<h1>Subtropical Mode Water</h1>
+<!--<h1>Subtropical Mode Water</h1>-->
 
 <p>
     While working at the Bermuda Atlantic Time-series study (BATS) and Hydrostation-S projects at the Bermuda Institute of Ocean Sciences, my research was directed on changes in the water mass structure in the BATS region, with a specific focus on Subtropical Mode Water. This water mass, dubbed ''eighteen degree water`` due to its characteristic temperature, is a significant sink for carbon dioxide and acts as an important nutrient source for organisms in the surface waters. In the 2010's, we documented a dramatic loss of STMW linked to increased surface warming in the North Atlantic.

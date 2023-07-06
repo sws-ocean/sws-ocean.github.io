@@ -1,7 +1,9 @@
 ---
 layout: page
-title: 
-subtitle: Outreach
+title: Outreach
+subtitle: 
+permalink: outreach
+description: Sam Stevens Oceanographer- this page outlines my scientific outreach
 ---
 
 <!-- Google tag (gtag.js) -->
@@ -21,15 +23,16 @@ figure {text-align: center;}
 </style>
 
 
-<h1>Outreach</h1>
+<!--<h1>Outreach</h1>-->
 
 <h2>Ocean Diaries</h2>
+
+<p> "Ocean Diaries" was a virtual education program coordinated the Bermuda Aquarium, Museum, and Zoological Society (BAMZ). A popular undertaking with 10s of thousands of online views, the series aimed to link "ocean explorers" from around the world to ocean enthusiasts in Bermuda and beyond. I had the privilege of contributing to this engaging program with noted solo racing yachtsman and award-winning author Neal Peterson and two entusiastic young Bermudian sailors to shed light on the significant influence of the Gulf Stream on sailing races and navigation. Using interactive maps, I explained the formation of eddies and how they impact tactical decisions during sailboat races. </p>
 
 <figure>
   <img src="/assets/img/ODiaries.jpeg" alt="Ocean Diaries flyer" style="width:70%">
 </figure>
 
-<p> "Ocean Diaries" was a virtual education program coordinated the Bermuda Aquarium, Museum, and Zoological Society (BAMZ). A popular undertaking with 10s of thousands of online views, the series aimed to link "ocean explorers" from around the world to ocean enthusiasts in Bermuda and beyond. I had the privilege of contributing to this engaging program with noted solo racing yachtsman and award-winning author Neal Peterson and two entusiastic young Bermudian sailors to shed light on the significant influence of the Gulf Stream on sailing races and navigation. Using interactive maps, I explained the formation of eddies and how they impact tactical decisions during sailboat races. </p>
 
 Read more about the episode <a href="https://bios.asu.edu/currents/the-science-behind-successful-sailboat-racing/">here.</a> 
 

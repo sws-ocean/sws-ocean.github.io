@@ -1,8 +1,11 @@
 ---
 layout: page
-title: 
-subtitle: C.V.
+title: C.V.
+subtitle:
+permalink: cv
+description: Sam Stevens Oceanographer- this page outlines my curriculum vitae
 ---
+
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-XFFDFDXETF"></script>

@@ -1,7 +1,9 @@
 ---
 layout: page
-title: 
-subtitle: "Swish" Floats
+title: Swish Floats
+subtitle: An inexpensive neutrally buoyant float to measure coastal dispersion
+permalink: swish
+description: Sam Stevens Oceanographer- this page outlines Swish Floats, an inexpensive neutrally buoyant float debloped at UBC
 ---
 
 <!-- Google tag (gtag.js) -->
@@ -21,7 +23,7 @@ figure {text-align: center;}
 </style>
 
 
-<h1>"Swish" Floats</h1>
+<!--<h1>"Swish" Floats</h1>-->
  <figure>
   <img src="/assets/img/hull_finalPAPER.jpg" alt="Neutrally buoyant Swish floats"  style="width:100%">
   <figcaption><small>Neutrally buoyant "Swish float" picture and schematic. <small>Stevens and Pawlowicz, 2023 (in review)</small></small></figcaption>

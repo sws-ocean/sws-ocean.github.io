@@ -1,7 +1,9 @@
 ---
 layout: page
-title: 
-subtitle: TReX Deep
+title: TReX Deep
+subtitle: TReX Deep- a tracer release experiment in the Gulf of St. Lawrence
+permalink: trex
+description: Sam Stevens Oceanographer- this page outlines my research in the Gulf of St. Lawrence as part of the TReX Deep tracer release project
 ---
 
 <!-- Google tag (gtag.js) -->
@@ -21,7 +23,7 @@ figure {text-align: center;}
 </style>
 
 
-<h1>TReX Deep- a tracer release experiment in the Gulf of St. Lawrence</h1>
+<!--<h1>TReX Deep- a tracer release experiment in the Gulf of St. Lawrence</h1>-->
 
 <!--
  <figure>
