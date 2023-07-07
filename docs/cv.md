@@ -77,7 +77,17 @@ description: Sam Stevens Oceanographer- this page outlines my curriculum vitae
   </ul>
 </section>
 
-
+<section>
+  <h2>Fieldwork</h2>
+  <ul>
+      <li><strong>Research cruises:</strong>
+          39 x BATS/Hydrostation "S" cruises (11 as chief scientist) aboard the <i>R/V Atlantic Explorer</i>; 1 x BATS cruise aboard the <i>R/V Endeavor</i>;  1 x Salish Sea cruise aboard the <i>CCGS Vector</i>, 1 x Gulf of St. Lawrence TReX deep cruise aboard the <i>R/V Coriolis II</i>.
+          </li>
+      <li><strong>Coastal fieldwork:</strong>
+          Highly experienced leading and participating in coastal fieldwork on small/medium sized coastal vessels and hovercrafts in shelf, estuary, reef, and fjord environments.
+          </li>
+  </ul>
+</section>
 
 <section>
   <h2>Selected Awards</h2>
