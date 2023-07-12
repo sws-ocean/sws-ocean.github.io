@@ -27,7 +27,7 @@ figure {text-align: center;}
 
 <!--<h2> The intermediate circulation of the Strait of Georgia </h2>-->
 
-The Greater Vancouver area has a population of over 2.5 million people. Where does all of the wastewater from this population go? After it has been treated in various treatments plants, it is released below the into coastal waters via various different outfalls. Though it has been treated, some persistant pollutants remain and it is important to know where these pollutants go and how they are building up in the coastal system.
+The Greater Vancouver area has a population of over 2.5 million people. Where does all of the wastewater from this population go? After it has been treated in various treatments plants, it is released underwater in nearby coastal waters via various different outfalls. Though it has been treated, some persistant pollutants remain and it is important to know where these pollutants go and how they are building up in the coastal system.
 
 <figure>
   <img src="/assets/img/seas_CD_comb_RS_R2.jpg" alt="Seasonality tracer transit time" style="width:80%">
