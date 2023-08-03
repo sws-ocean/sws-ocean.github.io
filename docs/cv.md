@@ -59,11 +59,15 @@ description: Sam Stevens Oceanographer- this page outlines my curriculum vitae
 
 <section>
   <h2>Teaching</h2>
+  <h4>Sessional Lecturer</h4>
   <ul>
-    <li><strong>Methods in Oceanography (EOSC 473/573)</strong> - UBC, 2022, Instructor</li>
-    <li><strong>Modern Observational Oceanography</strong> - BIOS, 2019, TA</li>
-    <li><strong>The Fluid Earth: Atmosphere and Ocean (EOSC 112)</strong> - UBC, 2018, TA</li>
-    <li><strong>Computer Methods in Earth, Ocean and Atmospheric Sciences (EOSC 211)</strong> - UBC, 2017, 2018, 2019, 2020, TA</li>
+    <li>Methods in Oceanography (EOSC 473/573) - UBC, 2022</li>
+  </ul>
+  <h4>Teaching Assistant</h4>
+  <ul>
+    <li>Modern Observational Oceanography - BIOS, 2019</li>
+    <li>The Fluid Earth: Atmosphere and Ocean (EOSC 112) - UBC, 2018</li>
+    <li>Computer Methods in Earth, Ocean and Atmospheric Sciences (EOSC 211) - UBC, 2017, 2018, 2019, 2020</li>
   </ul>
 </section>
 
@@ -71,9 +75,9 @@ description: Sam Stevens Oceanographer- this page outlines my curriculum vitae
 <section>
   <h2>Students</h2>
   <ul>
-    <li><strong>Elli Cunningham</strong> - NSERC-USRA student (supervisor), 2022</li>
-    <li><strong>Iris Gao</strong> - Co-op student (co-supervisor), 2019</li>
-    <li><strong>Forbes Choy</strong> - Co-op student (co-supervisor), 2018</li>
+    <li><strong>Elli Cunningham</strong> - NSERC-USRA student (supervisor), 2022: Elli worked on testing, developing, and deploying <a href="swish">"Swish floats"</a>. </li>
+    <li><strong>Iris Gao</strong> - Co-op student (co-supervisor), 2019: Iris' research continued on from Forbes' (below), applying an empirical CDOM-salinity relationship to measurements at various wastewater outfalls around Vancouver to track immediate wastewater dispersal. </li>
+    <li><strong>Forbes Choy</strong> - Co-op student (co-supervisor), 2018: Forbes researched the immediate dispersal of wastewater at an effluent outfall at First Narrows, Vancouver, developing an empirical CDOM-salinity relationship to identify wastewater without the need for water sampling. </li>
   </ul>
 </section>
 
