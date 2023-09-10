@@ -37,7 +37,7 @@ figure {text-align: center;}
 
  <figure>
   <img src="/assets/img/GoSLv2.jpg" alt="Neutrally buoyant Swish float popups in the Gulf of St. Lawrence"  style="width:70%">
-  <figcaption><small>Neutrally buoyant Swish float popups in the Gulf of St. Lawrence. <small>Stevens and Pawlowicz, 2023 (in review)</small></small></figcaption>
+  <figcaption><small>Neutrally buoyant Swish float popups in the Gulf of St. Lawrence. <small><a href='https://doi.org/10.1175/JTECH-D-23-0045.1'>Stevens and Pawlowicz, 2023</a></small></small></figcaption>
 </figure>
 
 <p>
@@ -45,5 +45,5 @@ figure {text-align: center;}
 </p>
 
 <p>
-    After spending three years developing these with the Ocean Dynamics Lab at the University of British Columbia, these floats are now part of an <a href='https://drifters.eoas.ubc.ca'>ongoing monitoring program</a> in the Strait of Georgia to study the dispersal of pollutants. 
+    After developing these with the Ocean Dynamics Lab at the University of British Columbia, these floats are now part of an <a href='https://drifters.eoas.ubc.ca'>ongoing monitoring program</a> in the Strait of Georgia to study the dispersal of pollutants. 
 </p>
