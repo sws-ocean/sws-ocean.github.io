@@ -26,7 +26,7 @@ figure {text-align: center;}
 <!--<h1>"Swish" Floats</h1>-->
  <figure>
   <img src="/assets/img/hull_finalPAPER.jpg" alt="Neutrally buoyant Swish floats"  style="width:100%">
-  <figcaption><small>Neutrally buoyant "Swish float" picture and schematic. <small>Stevens and Pawlowicz, 2023 (in review)</small></small></figcaption>
+  <figcaption><small>Neutrally buoyant "Swish float" picture and schematic. <small><a href='https://doi.org/10.1175/JTECH-D-23-0045.1'>Stevens and Pawlowicz, 2023</a></small></small></figcaption>
 </figure>
 
 
@@ -45,5 +45,5 @@ figure {text-align: center;}
 </p>
 
 <p>
-    After spending three years developing these with the Ocean Dynamics Lab at the University of British Columbia, these floats are now part of an <a href='drifters.eoas.ubc.ca'>ongoing monitoring program</a> in the Strait of Georgia to study the dispersal of pollutants. 
+    After spending three years developing these with the Ocean Dynamics Lab at the University of British Columbia, these floats are now part of an <a href='https://drifters.eoas.ubc.ca'>ongoing monitoring program</a> in the Strait of Georgia to study the dispersal of pollutants. 
 </p>
