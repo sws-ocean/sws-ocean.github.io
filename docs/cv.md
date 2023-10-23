@@ -38,7 +38,7 @@ description: Sam Stevens Oceanographer- this page outlines my curriculum vitae
   <h2>Education</h2>
   <ul>
     <li>
-        <strong>2017 to date: PhD Oceanography</strong><small>(switched from MSc. in 2019)</small>, University of British Columbia (UBC), Vancouver, Canada, Supervisor: Dr. Rich Pawlowicz
+        <strong>2017 to date: PhD Oceanography</strong><small> (switched from MSc. in September 2019)</small>, University of British Columbia (UBC), Vancouver, Canada, Supervisor: Dr. Rich Pawlowicz
     </li>
     <li>
       <strong>2010-2013: BSc Oceanography</strong>, National Oceanography Centre, University of Southampton, Southampton, U.K., Supervisor: Dr. Eleanor Frajka-Williams
