@@ -19,7 +19,7 @@ description: Sam Stevens Oceanographer- this page outlines my publications
   <h2>2023</h2>
   <ul>
     <li>
-      <p>Stevens, S. W., and R. Pawlowicz, 2023: Swish floats: an inexpensive neutrally buoyant float to monitor dispersion in coastal seas. <em>J. Atmos. Oceanic Technol.</em>, <a href="https://doi.org/10.1175/JTECH-D-23-0045.1">https://doi.org/10.1175/JTECH-D-23-0045.1</a>, in press.</p>
+      <p>Stevens, S. W., and R. Pawlowicz, 2023: Swish floats: an inexpensive neutrally buoyant float to monitor dispersion in coastal seas. <em>J. Atmos. Oceanic Technol.</em>,  40, 1493–1508, <a href="https://doi.org/10.1175/JTECH-D-23-0045.1">https://doi.org/10.1175/JTECH-D-23-0045.1</a>.</p>
     </li>
     <li>
       <p>Sun, Y., Francois, R., Pawlowicz, R., Maldonado, M.T., <strong>S.W. Stevens</strong>, Soon, M. (2023). Distribution, sources and dispersion of polybrominated diphenyl ethers in the water column of the Strait of Georgia, British Columbia, Canada. <em>Science of The Total Environment</em>, 873, 162174. <a href="https://doi.org/10.1016/j.scitotenv.2023.162174">https://doi.org/10.1016/j.scitotenv.2023.162174</a></p>
@@ -40,7 +40,7 @@ description: Sam Stevens Oceanographer- this page outlines my publications
   <h2>2021</h2>
   <ul>
     <li>
-      <p><strong>S.W. Stevens</strong>, Pawlowicz, R., & Allen, S.E. (2021). A Study of Intermediate Water Circulation in the Strait of Georgia Using Tracer-Based, Eulerian, and Lagrangian Methods. <em>Journal of Physical Oceanography</em>, 51(7), 1875–1893. <a href="https://doi.org/10.1175/JPO-D-20-0225.1">https://doi.org/10.1175/JPO-D-20-0225.1</a></p>
+      <p><strong>S.W. Stevens</strong>, Pawlowicz, R., Allen, S.E. (2021). A Study of Intermediate Water Circulation in the Strait of Georgia Using Tracer-Based, Eulerian, and Lagrangian Methods. <em>Journal of Physical Oceanography</em>, 51(7), 1875–1893. <a href="https://doi.org/10.1175/JPO-D-20-0225.1">https://doi.org/10.1175/JPO-D-20-0225.1</a></p>
     </li>
   </ul>
 </section>
