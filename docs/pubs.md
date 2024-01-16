@@ -15,6 +15,8 @@ description: Sam Stevens Oceanographer- this page outlines my publications
   gtag('config', 'G-XFFDFDXETF');
 </script>
 
+
+
 <section>
   <h2>2023</h2>
   <ul>
@@ -53,6 +55,22 @@ description: Sam Stevens Oceanographer- this page outlines my publications
     </li>
   </ul>
 </section>
+
+<style>
+  section {
+    margin-bottom: 20px;
+  }
+
+  ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  li {
+    margin-bottom: 10px;
+  }
+</style>
 
 <section>
   <h2>Selected Presentations</h2>
