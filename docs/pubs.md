@@ -19,7 +19,7 @@ description: Sam Stevens Oceanographer- this page outlines my publications
   <h2>2023</h2>
   <ul>
     <li>
-      <p>Stevens, S. W., and R. Pawlowicz, 2023: Swish floats: an inexpensive neutrally buoyant float to monitor dispersion in coastal seas. <em>J. Atmos. Oceanic Technol.</em>,  40, 1493–1508, <a href="https://doi.org/10.1175/JTECH-D-23-0045.1">https://doi.org/10.1175/JTECH-D-23-0045.1</a>.</p>
+      <p>Stevens, S. W., and R. Pawlowicz, 2023: Swish floats: an inexpensive neutrally buoyant float to monitor dispersion in coastal seas. <em>Journal of Atmospheric and Oceanic Technology</em>,  40, 1493–1508, <a href="https://doi.org/10.1175/JTECH-D-23-0045.1">https://doi.org/10.1175/JTECH-D-23-0045.1</a>.</p>
     </li>
     <li>
       <p>Sun, Y., Francois, R., Pawlowicz, R., Maldonado, M.T., <strong>S.W. Stevens</strong>, Soon, M. (2023). Distribution, sources and dispersion of polybrominated diphenyl ethers in the water column of the Strait of Georgia, British Columbia, Canada. <em>Science of The Total Environment</em>, 873, 162174. <a href="https://doi.org/10.1016/j.scitotenv.2023.162174">https://doi.org/10.1016/j.scitotenv.2023.162174</a></p>
