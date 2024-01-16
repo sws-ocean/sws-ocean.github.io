@@ -49,11 +49,10 @@ description: Sam Stevens Oceanographer- this page outlines my curriculum vitae
 <section>
   <h2>Jobs</h2>
   <ul>
-    <li><strong>Jul. 2022 - Sept. 2022</strong>: TReX data consultant</li>
-    <li><strong>Jan. 2018 - May 2019</strong>: Physical Oceanography Consultant, Metro Vancouver, Vancouver, Canada</li>
     <li><strong>Dec. 2014 - Aug. 2017</strong>: Research Technician, Bermuda Atlantic Time-series Study, Bermuda Institute of Ocean Sciences (BIOS), St. Georges, Bermuda</li>
     <li><strong>Dec. 2013 - Dec. 2014</strong>: MetOcean Scientist, Fugro EMU, Portsmouth, U.K.</li>
     <li><strong>Jul. 2012 - Jun. 2013</strong>: Assistant Coastal Surveyor, Havant Borough Council, Havant, U.K.</li>
+    <li><strong>Physical oceanography consultant</strong>: TReX project (MEOPAR, Canada), Municipal Water Quality (Metro Vancouver, Canada), BATS analyst (BIOS, Bermuda)</li>
   </ul>
 </section>
 
