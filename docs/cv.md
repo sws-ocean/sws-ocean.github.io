@@ -171,3 +171,18 @@ description: Sam Stevens Oceanographer- this page outlines my curriculum vitae
 </li>
   </ul>
 </section>
+
+<section>
+  <h2>Selected Workshoups</h2>
+  <ul>
+    <li>
+      <strong>Fire Across the Land: Truth and Reconciliation Workshop, Vancouver, 2023</strong>: An experiential workshop to provide education and insights into the collective trauma that has impacted Native people throughout Canada's history. 	
+    </li>
+    <li>
+      <strong>International Summer School on Radio Oceanography, Victoria, Canada, 2019</strong>: a week-long class based on the use of high frequency (HF) radar for oceanography.
+    </li>
+    <li>
+      <strong>Sea-Bird Electronics CTD Bootcamp, Seattle, USA, 2015 </strong>: A week-long class at the Sea-Bird Electronics facillity covering CTDs and commonly used sensors, theory and operation, data processing, and maintenance and repair. 
+    </li>      
+  </ul>
+</section>
