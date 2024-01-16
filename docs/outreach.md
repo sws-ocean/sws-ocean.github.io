@@ -25,15 +25,22 @@ figure {text-align: center;}
 
 <!--<h1>Outreach</h1>-->
 
+<section>
+
 <h2>Science World- Future Science Leaders Program</h2>
 
 <p> Science World, located just outside of downtown Vancouver in beautiful False Creek, is a not-for-profit science center and one of Vancouver's most instantly recognisable structures. One of Science World's many popular programs is <a href="https://www.scienceworld.ca/futurescienceleaders/">Future Science Leaders (FSL)</a>, an after-school science initiative for teens designed to foster creativity and engage students in STEAM subjects through sessions led by scientists and experts.</p>
 
+<figure>
+  <img src="/assets/img/fsl.jpeg" alt="FSL fun" style="width:40%">
+    <figcaption><small>Testing the final float designs! </small></figcaption>
+</figure>
+
+
 <p> With <a href="https://sites.google.com/view/beutel/home?authuser=0">Becca</a>, a fellow oceanographer, we engaged the FSL students with an interesting oceanographic problem: how can oceanogaphers measure currents below the surface of the ocean? With the recently developed <a href="../swish">"Swish floats"</a> in mind, we asked the students to design their own neutrally buoyant floats in the classroom using benchtop supplies and posed a budgeting challenge by pricing each of the components differently. We then tested their floats by placing them in tall transparent tube filled half with water and half with oil, challenging the young oceanographers to get their floats neutrally buoyant at the fluid interface. This activity proved a fun avenue to introduce the students to a number of oceanographic and engineering concepts, and the varying success of the different floats sparked interesting conversations on the challenges in making subsurface ocean observations. </p>  
 
-<figure>
-  <img src="/assets/img/fsl.jpeg" alt="FSL fun" style="width:60%">
-</figure>
+</section>
+
 
 <h2>Ocean Diaries</h2>
 
