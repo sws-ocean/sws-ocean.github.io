@@ -74,53 +74,43 @@ description: Sam Stevens Oceanographer- this page outlines my publications
 
 <section>
   <h2>Selected Presentations</h2>
+    
   <ul>
  <li>
       <strong>2023 CMOS Congress, St. Johns, Canada (session co-convener: Lagrangian perspectives on ocean transport and mixing)</strong>
       <br>
-      "Swish floats- an inexpensive neutrally buoyant float to monitor dispersion in coastal seas"
-      <br>
-      Authors: Samuel W. Stevens, Rich Pawlowicz
+      "Swish floats- an inexpensive neutrally buoyant float to monitor dispersion in coastal seas", Samuel W. Stevens, Rich Pawlowicz
 </li>
+<br>
 
 <li>
       <strong>2023 CMOS Congress, St. Johns, Canada</strong>
       <br>
-      "Initial tracer dispersion measurements in the TReX deep tracer release experiment"
-      <br>
-      Authors: Samuel W. Stevens, Douglas W.R. Wallace, Lennart Gerke, William A. Nesbitt, Toste Tanhua, Rich Pawlowicz
+      "Initial tracer dispersion measurements in the TReX deep tracer release experiment", Samuel W. Stevens, Douglas W.R. Wallace, Lennart Gerke, William A. Nesbitt, Toste Tanhua, Rich Pawlowicz
 </li>
 
 <li>
       <strong>2020 AGU Ocean Sciences Meeting, San Diego, USA</strong>
       <br>
-      "Using seasonality to trace water masses in a coastal ocean"
-      <br>
-      Authors: S.W. Stevens, R. Pawlowicz
+      "Using seasonality to trace water masses in a coastal ocean", S.W. Stevens, R. Pawlowicz
 </li>
 
 <li>
       <strong>2020 AGU Ocean Sciences Meeting, San Diego, USA</strong>
       <br>
-      "Meridional Heat and Salinity Budgets of the Sargasso Sea Inferred from Two Decades of Ocean Time-series and Transect Observations"
-      <br>
-      Authors: R.J. Johnson, N.R. Bates, M.W. Lomas, S.W. Stevens, P. Lethaby, Z. Anderson, F. Pacheco, A. Knap
+      "Meridional Heat and Salinity Budgets of the Sargasso Sea Inferred from Two Decades of Ocean Time-series and Transect Observations", R.J. Johnson, N.R. Bates, M.W. Lomas, S.W. Stevens, P. Lethaby, Z. Anderson, F. Pacheco, A. Knap
 </li>
 
 <li>
       <strong>2017 ASLO Aquatic Sciences Meeting, Honolulu, USA</strong>
       <br>
-      "Investigating the Interannual and Mesoscale Erosion of North Atlantic Subtropical Mode Water Within the Sargasso Sea"
-      <br>
-      Authors: S.W. Stevens, R.J. Johnson, N.R. Bates
+      "Investigating the Interannual and Mesoscale Erosion of North Atlantic Subtropical Mode Water Within the Sargasso Sea", S.W. Stevens, R.J. Johnson, N.R. Bates
 </li>
 
 <li>
       <strong>2016 AGU Ocean Sciences Meeting, New Orleans, USA</strong>
       <br>
-      "Physical and Biogeochemical Factors Affecting Deep Oxygen Minimum Zone Variability at BATS"
-      <br>
-      Authors: S.W. Stevens, R.J. Johnson, N.R. Bates, R.J. Parsons
+      "Physical and Biogeochemical Factors Affecting Deep Oxygen Minimum Zone Variability at BATS", S.W. Stevens, R.J. Johnson, N.R. Bates, R.J. Parsons
 </li>
   </ul>
 </section>
