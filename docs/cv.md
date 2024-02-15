@@ -20,7 +20,7 @@ description: Sam Stevens Oceanographer- this page outlines my curriculum vitae
 
 <style>
   section {
-    margin-bottom: 20px;
+    margin-bottom: 40px;
   }
 
   ul {
@@ -38,10 +38,10 @@ description: Sam Stevens Oceanographer- this page outlines my curriculum vitae
   <h2>Education</h2>
   <ul>
     <li>
-        <strong>2017 to date: PhD Oceanography</strong><small> (switched from MSc. in September 2019)</small>, University of British Columbia (UBC), Vancouver, Canada, Supervisor: Dr. Rich Pawlowicz
+        <strong>2017–2024: PhD Oceanography</strong><small> (switched from MSc. in September 2019)</small>, University of British Columbia (UBC), Vancouver, Canada, Supervisor: Dr. Rich Pawlowicz
     </li>
     <li>
-      <strong>2010-2013: BSc Oceanography</strong>, National Oceanography Centre, University of Southampton, Southampton, U.K., Supervisor: Dr. Eleanor Frajka-Williams
+      <strong>2010–2013: BSc Oceanography</strong>, National Oceanography Centre, University of Southampton, Southampton, U.K., Supervisor: Dr. Eleanor Frajka-Williams
     </li>
   </ul>
 </section>
@@ -49,9 +49,9 @@ description: Sam Stevens Oceanographer- this page outlines my curriculum vitae
 <section>
   <h2>Jobs</h2>
   <ul>
-    <li><strong>Dec. 2014 - Aug. 2017</strong>: Research Technician, Bermuda Atlantic Time-series Study, Bermuda Institute of Ocean Sciences (BIOS), St. Georges, Bermuda</li>
-    <li><strong>Dec. 2013 - Dec. 2014</strong>: MetOcean Scientist, Fugro EMU, Portsmouth, U.K.</li>
-    <li><strong>Jul. 2012 - Jun. 2013</strong>: Assistant Coastal Surveyor, Havant Borough Council, Havant, U.K.</li>
+    <li><strong>Dec. 2014 – Aug. 2017</strong>: Research Technician, Bermuda Atlantic Time-series Study, Bermuda Institute of Ocean Sciences (BIOS), St. Georges, Bermuda</li>
+    <li><strong>Dec. 2013 – Dec. 2014</strong>: MetOcean Scientist, Fugro EMU, Portsmouth, U.K.</li>
+    <li><strong>Jul. 2012 – Jun. 2013</strong>: Assistant Coastal Surveyor, Havant Borough Council, Havant, U.K.</li>
     <li><strong>Physical oceanography consultant</strong>: TReX project (MEOPAR, Canada), Municipal Water Quality (Metro Vancouver, Canada), BATS analyst (BIOS, Bermuda)</li>
   </ul>
 </section>
@@ -96,7 +96,7 @@ description: Sam Stevens Oceanographer- this page outlines my curriculum vitae
   <h2>Selected Awards</h2>
   <ul>
     <li>
-      <strong>Four-year fellowship, 2019-2023, UBC</strong>: The Four Year Doctoral Fellowship program provides financial support and base-level funding for outstanding domestic and international doctoral students at UBC.
+      <strong>Four–year fellowship, 2019–2023, UBC</strong>: The Four Year Doctoral Fellowship program provides financial support and base-level funding for outstanding domestic and international doctoral students at UBC.
     </li>
     <li>
       <strong>W.H. Mathews scholarship, 2020 & 2022, UBC</strong>: Department scholarship in memory of W. H. Mathews, a UBC graduate and professor who pioneered the study of subglacial eruptions and volcano-ice interactions.
@@ -111,7 +111,7 @@ description: Sam Stevens Oceanographer- this page outlines my curriculum vitae
       <strong>George L. Pickard Scholarship in Oceanography 2023</strong>: Endowed scholarship recognizing outstanding originality and promise of success in multidisciplinary areas of oceanography.
     </li>
     <li>
-      <strong>TReX Graduate Award, 2021-2022</strong>: Funding to attract and support graduate students to conduct research activities on the TReX project that will contribute to a part of the student’s doctoral thesis research.
+      <strong>TReX Graduate Award, 2021–2022</strong>: Funding to attract and support graduate students to conduct research activities on the TReX project that will contribute to a part of the student’s doctoral thesis research.
     </li>
       
   </ul>
