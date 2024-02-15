@@ -20,7 +20,7 @@ description: Sam Stevens Oceanographer- this page outlines my curriculum vitae
 
 <style>
   section {
-    margin-bottom: 40px;
+    margin-bottom: 60px;
   }
 
   ul {
