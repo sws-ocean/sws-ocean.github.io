@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CPROOF- Glider Observations
+title: CPROOF
 subtitle: Glider observations on the British Columbia Central Coast
 permalink: CPROOF
 description: 
@@ -29,17 +29,7 @@ figure {text-align: center;}
 
 
 <figure>
-  <img src="/assets/img/sam_glider2.jpg" alt="Glider recovery"  style="width:100%">
+  <img src="/assets/img/sam_glider2.jpg" alt="Glider recovery"  style="width:50%">
   <figcaption><small>Recovering a glider from a small boat.</small></figcaption>
 </figure>
 
-
-<div id="mapfront" style="width: 100%; height: 400px;"></div>
-
-<a href="https://cproof.uvic.ca/deployments/">
-  <script src="https://cproof.uvic.ca/js/map.js"></script>
-</a>
-
-<h4> Active glider deployments</h4>
-<div id="image-container"></div>
-<script src="jhttps://cproof.uvic.ca/js/image_active_deploy.js"></script>
