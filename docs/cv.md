@@ -3,7 +3,7 @@ layout: page
 title: C.V.
 subtitle:
 permalink: cv
-description: Sam Stevens Oceanographer- this page outlines my curriculum vitae
+description: Access the curriculum vitae of Sam Stevens, an oceanographer involved in both research and education. This page provides an overview of his professional trajectory, educational background, teaching experience, and fieldwork accomplishments.
 ---
 
 
@@ -35,6 +35,17 @@ description: Sam Stevens Oceanographer- this page outlines my curriculum vitae
 </style>
 
 <section>
+  <h2>Employment</h2>
+  <ul>
+     <li><strong>May. 2024 to date</strong>: Postdoctoral Researcher, CPROOF, Hakai Insitute, Vancouver, Canada</li>
+    <li><strong>Dec. 2014 – Aug. 2017</strong>: Research Technician, Bermuda Atlantic Time-series Study, Bermuda Institute of Ocean Sciences (BIOS), St. Georges, Bermuda</li>
+    <li><strong>Dec. 2013 – Dec. 2014</strong>: MetOcean Scientist, Fugro EMU, Portsmouth, U.K.</li>
+    <li><strong>Jul. 2012 – Jun. 2013</strong>: Assistant Coastal Surveyor, Havant Borough Council, Havant, U.K.</li>
+    <li><strong>Physical Oceanography Consultant (various)</strong>: TReX project (MEOPAR, Canada), Municipal Water Quality (Metro Vancouver, Canada), BATS analyst (BIOS, Bermuda)</li>
+  </ul>
+</section>
+
+<section>
   <h2>Education</h2>
   <ul>
     <li>
@@ -43,16 +54,6 @@ description: Sam Stevens Oceanographer- this page outlines my curriculum vitae
     <li>
       <strong>2010–2013: BSc Oceanography</strong>, National Oceanography Centre, University of Southampton, Southampton, U.K., Supervisor: Dr. Eleanor Frajka-Williams
     </li>
-  </ul>
-</section>
-
-<section>
-  <h2>Jobs</h2>
-  <ul>
-    <li><strong>Dec. 2014 – Aug. 2017</strong>: Research Technician, Bermuda Atlantic Time-series Study, Bermuda Institute of Ocean Sciences (BIOS), St. Georges, Bermuda</li>
-    <li><strong>Dec. 2013 – Dec. 2014</strong>: MetOcean Scientist, Fugro EMU, Portsmouth, U.K.</li>
-    <li><strong>Jul. 2012 – Jun. 2013</strong>: Assistant Coastal Surveyor, Havant Borough Council, Havant, U.K.</li>
-    <li><strong>Physical oceanography consultant</strong>: TReX project (MEOPAR, Canada), Municipal Water Quality (Metro Vancouver, Canada), BATS analyst (BIOS, Bermuda)</li>
   </ul>
 </section>
 

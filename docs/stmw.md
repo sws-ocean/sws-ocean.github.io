@@ -3,7 +3,7 @@ layout: page
 title: Subtropical Mode Water
 subtitle: North Atlantic Subtropical Mode Water variability at the Bermuda Atlantic Time-series Study (BATS)
 permalink: stmw
-description: Sam Stevens Oceanographer- this page outlines my research on North Atlantic Subtropical Mode Water at BATS
+description: Explore the research conducted by Sam Stevens on the variability of North Atlantic Subtropical Mode Water at the Bermuda Atlantic Time-series Study (BATS). The page details the observed decline in this water mass, correlating it with increased surface temperatures and its broader implications.
 ---
 
 <!-- Google tag (gtag.js) -->

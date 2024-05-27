@@ -3,7 +3,7 @@ layout: page
 title: Outreach
 subtitle: 
 permalink: outreach
-description: Sam Stevens Oceanographer- this page outlines my scientific outreach
+description: This page covers Sam Stevens' contributions to scientific outreach, detailing his involvement in programs that bridge oceanography with public education and community engagement. It highlights initiatives aimed at fostering a deeper understanding of oceanic processes.
 ---
 
 <!-- Google tag (gtag.js) -->

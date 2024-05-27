@@ -3,7 +3,7 @@ layout: page
 title: Swish Floats
 subtitle: An inexpensive neutrally buoyant float to measure coastal dispersion
 permalink: swish
-description: Sam Stevens Oceanographer- this page outlines Swish Floats, an inexpensive neutrally buoyant float debloped at UBC
+description: This page details the Swish Floats, an economical neutrally buoyant device developed at UBC for deep ocean circulation studies. Designed to mimic the movement of subsurface water masses, these floats help track water movement and environmental changes, supporting oceanographic research and pollution studies.
 ---
 
 <!-- Google tag (gtag.js) -->

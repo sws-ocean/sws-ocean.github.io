@@ -3,7 +3,7 @@ layout: page
 title: Salish Sea
 subtitle: Measuring subsurface circulation in the Salish Sea
 permalink: salish
-description: Sam Stevens Oceanographer- this page outlines my research on the intermediate water of the Strait of Georgia, Salish Sea at UBC
+description: This page presents Sam Stevens' research on the intermediate water circulation within the Strait of Georgia, part of the Salish Sea. It focuses on the dispersion of treated wastewater and its environmental impacts, employing advanced tracer methodologies for pollutant tracking.
 ---
 
 <!-- Google tag (gtag.js) -->
@@ -43,6 +43,6 @@ The Greater Vancouver area has a population of over 2.5 million people. Where do
 
  <figure>
   <img src="/assets/img/SoG_v2_page-0001.jpg" alt="Neutrally buoyant Swish float popups in the Strait of Georgia"  style="width:70%">
-  <figcaption><small>Neutrally buoyant <a href="../swish">"Swish float"</a> popups in the Strait of Georgia (grey lines show surface drifter tracks for comparison). <small>Stevens and Pawlowicz, 2023 (in review)</small></small></figcaption>
+  <figcaption><small>Neutrally buoyant  <a href="../swish">"Swish float"</a> popups in the Strait of Georgia (grey lines show surface drifter tracks for comparison). <small>Stevens and Pawlowicz, 2023 (in review)</small></small></figcaption>
 </figure>
 

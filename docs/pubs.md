@@ -3,7 +3,7 @@ layout: page
 title: Publications
 subtitle: 
 permalink: pubs
-description: Sam Stevens Oceanographer- this page outlines my publications
+description: Review the scholarly publications of Sam Stevens. This page catalogues his contributions to understanding ocean dynamics, methodological innovations, and the ecological impacts of marine processes.
 ---
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-XFFDFDXETF"></script>
