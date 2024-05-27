@@ -25,6 +25,7 @@ navbar-links:
     - Salish Sea: "salish"
     - Tracer Experiments: "trex"
     - Mode Water: "stmw"
+    - Gliders: "CPROOF"
 
   Publications: "pubs"
   CV: "cv"
