@@ -39,7 +39,7 @@ figure {text-align: center;}
 
 
 <p>
-  One interesting possible application of studying deepwater dispersion in the region is a novel approach using oxygen— a byproduct of green hydrogen production- to combat the expanding hypoxic zones in the Gulf of St. Lawrence. Further details on this approach can be found on <a href="https://www.cbc.ca/news/canada/nova-scotia/hypoxic-gulf-of-st-lawrence-quebec-researchers-oxygen-hydrogen-1.7081325" target="_blank">CBC News</a>.
+  One interesting possible application of studying deepwater dispersion in the region is a novel approach using the oxygen produced by green hydrogen plants to combat the expanding hypoxic zones in the Gulf of St. Lawrence. Further details on this approach can be found on <a href="https://www.cbc.ca/news/canada/nova-scotia/hypoxic-gulf-of-st-lawrence-quebec-researchers-oxygen-hydrogen-1.7081325" target="_blank">CBC News</a>.
 </p>
 
 
