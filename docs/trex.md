@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: TReX Deep
@@ -22,7 +21,6 @@ h1 {text-align: center;}
 h3 {text-align: justify;}
 figure {text-align: center;}
 </style>
-
 
 <p>
    The TReX Deep project is a collaborative multidisciplinary project centred around the release and subsequent tracking of an inert SF5CF3 chemical tracer in the Gulf of St. Lawrence. As a region that is proving particularly vulnerable to climate change, the goals of this study are to better understand the transport pathways and transit time distributions of inflow waters from Cabot Strait into the St. Lawrence estuary and wider Gulf. My role in this project is to quantify the horizontal and vertical dispersion of inflow waters using the measurements of tracer spreading since the injection.
@@ -49,3 +47,4 @@ figure {text-align: center;}
 <figure>
   <img src="/assets/img/comms_paper.jpg" alt="TReX Deep Communications: Earth and Environment paper" style="width:70%">
 </figure>
+

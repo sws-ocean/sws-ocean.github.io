@@ -22,7 +22,7 @@ description: Review the scholarly publications of Sam Stevens. This page catalog
       <p><strong>S. W. Stevens</strong>, R. Pawlowicz, T. Tanhua, L. Gerke, W. Nesbitt, J. Chassé, A. Drozdowski, D. Wallace (2024). Deep inflow transport and dispersion in the Gulf of St. Lawrence revealed by a tracer release experiment. <em>Communications: Earth and Environment</em>, 5, 338, <a href="https://doi.org/10.1038/s43247-024-01505-5">https://doi.org/10.1038/s43247-024-01505-5</a></p>
     </li>
     <li>
-      <p>B. Beutel*, <strong>S. W. Stevens*</strong> (2024). Discovering DIY Oceanography: Building Floats to Track Deep Ocean Currents. <em>in review</em>. *Equal contribution.</p>
+      <p>B. Beutel* and <strong>S. W. Stevens*</strong> (2024). Discovering DIY Oceanography: Building Floats to Track Deep Ocean Currents. <em>in review</em>. *Equal contribution.</p>
     </li>
   </ul>
 </section>
