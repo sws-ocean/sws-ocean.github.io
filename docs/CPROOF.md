@@ -34,6 +34,6 @@ figure {text-align: center;}
 </figure>
 
 <figure>
-  <img src="/assets/img/glider_deploy.gif" alt="Glider deployment" style="width:50%">
+  <img src="/assets/img/glider_deploy.gif" alt="Glider deployment" style="width:70%">
   <figcaption><small>Deploying a glider from the R/V Atlantic Explorer.</small></figcaption>
 </figure>
