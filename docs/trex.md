@@ -27,7 +27,7 @@ figure {text-align: center;}
 </p>
 
 <figure>
-  <img src="/assets/img/tracerSpread.jpg" alt="Tracer spreading" style="width:60%">
+  <img src="/assets/img/tracerSpread.png" alt="Tracer spreading" style="width:60%">
   <figcaption><small>Tracer spreading and Swish float popups after eight (top) and twelve (bottom) months.</small></figcaption>
 </figure>
 
@@ -45,6 +45,6 @@ figure {text-align: center;}
 </p>
 
 <figure>
-  <img src="/assets/img/comms_paper.jpg" alt="TReX Deep Communications: Earth and Environment paper" style="width:70%">
+  <img src="/assets/img/comms_paper.png" alt="TReX Deep Communications: Earth and Environment paper" style="width:70%">
 </figure>
 
