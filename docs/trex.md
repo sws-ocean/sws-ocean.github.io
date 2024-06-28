@@ -34,7 +34,7 @@ figure {text-align: center;}
 </figure>
 
 <p>
-   In a paper presents findings from this experiment, showing that the tracer moved inland at an average speed of 0.5 cm/s with significant lateral and vertical mixing. We estimated that inflow water would reach the estuary head in about 1.7 years, with most of it arriving in 4.7 years. Vertical mixing was found to be influenced by turbulent boundary processes near basin slopes. These insights are crucial for understanding deep water transport and predicting the environmental impacts of changing circulation patterns in the Gulf of St. Lawrence. You can read the full paper <a href="https://doi.org/10.1038/s43247-024-01505-5" target="_blank">here</a>.
+   In a <a href="https://doi.org/10.1038/s43247-024-01505-5" target="_blank">2024 paper</a>, we showed that the tracer moved inland at an average speed of 0.5 cm/s with significant lateral and vertical mixing. We estimated that inflow water would reach the estuary head in about 1.7 years, with most of it arriving in 4.7 years. Vertical mixing was found to be influenced by turbulent boundary processes near basin slopes. These insights are important for understanding deep water transport timescales and predicting the environmental impacts of recent changes to the deep water composition of the Gulf.
 </p>
 
 <figure>
