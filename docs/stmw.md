@@ -26,7 +26,7 @@ figure {text-align: center;}
 <!--<h1>Subtropical Mode Water</h1>-->
 
 <p>
-    While working at the Bermuda Atlantic Time-series study (BATS) and Hydrostation-S projects at the Bermuda Institute of Ocean Sciences, my research was directed on changes in the water mass structure in the BATS region, with a specific focus on Subtropical Mode Water. This water mass, dubbed ''eighteen degree water`` due to its characteristic temperature, is a significant sink for carbon dioxide and acts as an important nutrient source for organisms in the surface waters. In the 2010's, we documented a dramatic loss of STMW linked to increased surface warming in the North Atlantic.
+    While working at the Bermuda Atlantic Time-series study (BATS) and Hydrostation-S projects at the Bermuda Institute of Ocean Sciences, I studied long-term changes in the water mass structure in the BATS region, with a specific focus on Subtropical Mode Water. This water mass, dubbed ''eighteen degree water`` due to its consistent and characteristic 18°C temperature, is a significant sink for carbon dioxide and acts as an important nutrient source for organisms in the surface waters. In the 2010's, we documented a dramatic loss of STMW linked to increased surface warming in the North Atlantic.
 </p>
 
 

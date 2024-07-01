@@ -28,11 +28,11 @@ figure {text-align: center;}
 
 <figure>
   <img src="/assets/img/tracerSpread.png" alt="Tracer spreading" style="width:60%">
-  <figcaption><small>Tracer spreading and Swish float popups after eight (top) and twelve (bottom) months.</small></figcaption>
+  <figcaption><small><a href="https://doi.org/10.1038/s43247-024-01505-5" target="_blank">Tracer spreading</a> and Swish float popups after eight (top) and twelve (bottom) months.</small></figcaption>
 </figure>
 
 <p>
-   In a <a href="https://doi.org/10.1038/s43247-024-01505-5" target="_blank">2024 paper</a>, we showed that the tracer moved inland at an average speed of 0.5 cm/s with significant lateral and vertical mixing. We estimated that inflow water would reach the estuary head in about 1.7 years, with most of it arriving in 4.7 years. Vertical mixing was found to be influenced by turbulent boundary processes near basin slopes. These insights are important for understanding deep water transport timescales and predicting the environmental impacts of recent changes to the deep water composition of the Gulf.
+   In a <a href="https://doi.org/10.1038/s43247-024-01505-5" target="_blank">2024 paper</a>, we showed that the tracer moved inland at an average speed of 0.5 cm/s while undergoing lateral and vertical mixing. By observing the tracer spreading over a year, we estimated that inflow water would reach the estuary head in about 1.7 years, with most of it arriving in 4.7 years. Vertical mixing was found to be influenced by turbulent boundary processes near basin slopes. These findings are important for understanding deep water transport timescales and predicting the environmental impacts of recent changes to the deep water composition of the Gulf.
 </p>
 
 <figure>
