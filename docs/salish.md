@@ -23,7 +23,7 @@ figure {text-align: center;}
 </style>
 
 <!--<h1>Salish Sea</h1>-->
-<p align="center"> <small><i>The Salish Sea, with its ancestral name, holds deep cultural significance for the First Nations people who have cared for its waters for generations. Conducting my PhD research in and around the Salish Sea has been a privilege, and I am grateful for the ongoing stewardship by these communities. I acknowledge and honor their profound connection to the Salish Sea, and I hope to continue learning from and working alongside them for its preservation.</i></small> </p>
+<p align="center"> <small><i>The Salish Sea, with its ancestral name, holds deep cultural significance for the First Nations people who have cared for its waters for generations. Conducting my PhD research in and around the Salish Sea has been a privilege, and I am grateful for the ongoing stewardship by these communities. I acknowledge their connection to the Salish Sea, and I hope to continue learning from and working alongside them for its preservation.</i></small> </p>
 
 <!--<h2> The intermediate circulation of the Strait of Georgia </h2>-->
 
