@@ -37,9 +37,9 @@ figure {text-align: center;}
 </figure>
 
 
-<p> With <a href="https://sites.google.com/view/beutel/home?authuser=0">Becca</a>, a fellow oceanographer, we engaged the FSL students with an interesting oceanographic problem: how can oceanogaphers measure currents below the surface of the ocean? With the recently developed <a href="../swish">"Swish floats"</a> in mind, we asked the students to design their own neutrally buoyant floats in the classroom using benchtop supplies and posed a budgeting challenge by pricing each of the components differently. We then tested their floats by placing them in tall transparent tube filled half with water and half with oil, challenging the young oceanographers to get their floats neutrally buoyant at the fluid interface. This activity proved a fun avenue to introduce the students to a number of oceanographic and engineering concepts, and the varying success of the different floats sparked interesting conversations on the challenges in making subsurface ocean observations. </p>  
+<p> With <a href="https://sites.google.com/view/beutel/home?authuser=0">Becca</a>, a fellow oceanographer, we engaged the FSL students with an interesting oceanographic problem: how can oceanogaphers measure currents below the surface of the ocean? With the recently developed <a href="../swish">"Swish floats"</a> in mind, we asked the students to design their own neutrally buoyant floats in the classroom using benchtop supplies and posed a budgeting challenge by pricing each of the components differently. We then tested their floats by placing them in tall transparent tube filled half with water and half with oil, challenging the young oceanographers to get their floats neutrally buoyant at the fluid interface. </p>  
 
-You can read about the activity in <a href="https://doi.org/10.1080/00368121.2024.2376753">this</a> paper!
+You can read more about the activity in <a href="https://doi.org/10.1080/00368121.2024.2376753">this</a> paper!
 
 </section>
 
