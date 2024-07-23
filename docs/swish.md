@@ -45,5 +45,5 @@ figure {text-align: center;}
 </p>
 
 <p>
-    After developing these with the Ocean Dynamics Lab at the University of British Columbia, these floats are now part of an <a href='https://drifters.eoas.ubc.ca'>ongoing monitoring program</a> in the Strait of Georgia to study the dispersal of pollutants. 
+    After developing these with the Ocean Dynamics Lab at the University of British Columbia, these floats are now part of an <a href='https://drifters.eoas.ubc.ca'>ongoing monitoring program</a> in the Strait of Georgia to study the dispersal of pollutants. Further, my collegue and I converted the Swish float idea into a fun science activity for high-schoolers: read about it <a href="https://doi.org/10.1080/00368121.2024.2376753">here</a>!
 </p>
