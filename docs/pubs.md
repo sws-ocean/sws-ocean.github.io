@@ -78,5 +78,8 @@ description: Review the scholarly publications of Sam Stevens. This page catalog
         <li>
       <p>World’s next generation of marine scientists present cutting-edge research on Kaua‘i: <a href="https://kauainownews.com/2024/10/22/worlds-next-generation-of-marine-scientists-present-cutting-edge-research-on-kauai/" target="_blank">https://kauainownews.com/2024/10/22/worlds-next-generation-of-marine-scientists-present-cutting-edge-research-on-kauai/</a></p>
     </li>
+      <li>
+      <p>Meet the recipients of MEOPAR and RQM’s TReX Graduate Student Awards!: <a href="https://meopar.ca/meet-the-recipients-of-the-trex-graduate-awards/" target="_blank">https://meopar.ca/meet-the-recipients-of-the-trex-graduate-awards/</a></p>
+    </li>  
   </ul>    
 </section>
