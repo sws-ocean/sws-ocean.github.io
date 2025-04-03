@@ -80,6 +80,13 @@ description: Review the scholarly publications of Sam Stevens. This page catalog
     </li>
       <li>
       <p>Meet the recipients of MEOPAR and RQM’s TReX Graduate Student Awards!: <a href="https://meopar.ca/meet-the-recipients-of-the-trex-graduate-awards/" target="_blank">https://meopar.ca/meet-the-recipients-of-the-trex-graduate-awards/</a></p>
+    </li> 
+      <li>
+      <p>Meet the recipients of MEOPAR and RQM’s TReX Graduate Student Awards!: <a href="https://bios.asu.edu/currents/science-behind-successful-sailboat-racing
+" target="_blank">https://bios.asu.edu/currents/science-behind-successful-sailboat-racing
+</a></p>
     </li>  
   </ul>    
+    
+    
 </section>
