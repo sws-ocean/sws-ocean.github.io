@@ -75,5 +75,8 @@ description: Review the scholarly publications of Sam Stevens. This page catalog
       <li>
       <p>Could a byproduct of green hydrogen breathe life into Gulf of St. Lawrence dead zone?: <a href="https://www.cbc.ca/news/canada/nova-scotia/hypoxic-gulf-of-st-lawrence-quebec-researchers-oxygen-hydrogen-1.7081325" target="_blank">https://www.cbc.ca/news/canada/nova-scotia/hypoxic-gulf-of-st-lawrence-quebec-researchers-oxygen-hydrogen-1.7081325</a></p>
     </li>
-  </ul>
+        <li>
+      <p>World’s next generation of marine scientists present cutting-edge research on Kaua‘i: <a href="https://kauainownews.com/2024/10/22/worlds-next-generation-of-marine-scientists-present-cutting-edge-research-on-kauai/" target="_blank">https://kauainownews.com/2024/10/22/worlds-next-generation-of-marine-scientists-present-cutting-edge-research-on-kauai/</a></p>
+    </li>
+  </ul>    
 </section>
