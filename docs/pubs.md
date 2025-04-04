@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications
+title: Publications and Press
 subtitle: 
 permalink: pubs
 description: Review the scholarly publications of Sam Stevens. This page catalogues his contributions to understanding ocean dynamics, methodological innovations, and the ecological impacts of marine processes.
@@ -82,7 +82,7 @@ description: Review the scholarly publications of Sam Stevens. This page catalog
       <p>Meet the recipients of MEOPAR and RQM’s TReX Graduate Student Awards!: <a href="https://meopar.ca/meet-the-recipients-of-the-trex-graduate-awards/" target="_blank">https://meopar.ca/meet-the-recipients-of-the-trex-graduate-awards/</a></p>
     </li> 
       <li>
-      <p>Meet the recipients of MEOPAR and RQM’s TReX Graduate Student Awards!: <a href="https://bios.asu.edu/currents/science-behind-successful-sailboat-racing
+      <p>The Science Behind Successful Sailboat Racing: <a href="https://bios.asu.edu/currents/science-behind-successful-sailboat-racing
 " target="_blank">https://bios.asu.edu/currents/science-behind-successful-sailboat-racing
 </a></p>
     </li>  
