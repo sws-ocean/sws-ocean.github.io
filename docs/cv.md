@@ -95,10 +95,26 @@ description: Access the curriculum vitae of Sam Stevens, an oceanographer involv
 
 <section>
   <h2>Selected Awards</h2>
+
+  <h3>International</h3>
   <ul>
     <li>
-      <strong>Four–year fellowship, 2019–2023, UBC</strong>: The Four Year Doctoral Fellowship program provides financial support and base-level funding for outstanding domestic and international doctoral students at UBC.
+      <strong><a href="https://www.soest.hawaii.edu/pods/PODS_archive/PODS_XIII_2024/index.htm" target="_blank">PODS XIII Symposium Participant, 2024</a></strong>: Selected to present doctoral research at the 13th Physical Oceanography Dissertation Symposium, held in Lihue, Kaua‘i, Hawai‘i, 20–24 October 2024. The symposium was jointly supported by the National Science Foundation, the National Oceanic and Atmospheric Administration, and the Office of Naval Research, and coordinated by the University of Hawai‘i.
     </li>
+  </ul>
+
+  <h3>National</h3>
+  <ul>
+    <li>
+      <strong><a href="https://www.cmos.ca/site/awards?a=7" target="_blank">Tertia MC Hughes Graduate Student Prize</a>, 2025, Canadian Meteorological and Oceanographic Society (CMOS)</strong>: "... for his excellent thesis at the University of British Columbia titled Measuring Subsurface Circulation in Deep Stratified Marginal Seas."
+    </li>
+    <li>
+      <strong>TReX Graduate Award, 2021–2022, MEOPAR</strong>: Funding to attract and support graduate students to conduct research activities on the TReX project that will contribute to a part of the student’s doctoral thesis research.
+    </li>
+  </ul>
+
+  <h3>Institutional (UBC)</h3>
+  <ul>
     <li>
       <strong>W.H. Mathews scholarship, 2020 & 2022, UBC</strong>: Department scholarship in memory of W. H. Mathews, a UBC graduate and professor who pioneered the study of subglacial eruptions and volcano-ice interactions.
     </li>
@@ -106,17 +122,15 @@ description: Access the curriculum vitae of Sam Stevens, an oceanographer involv
       <strong>Captain Thomas S. Byrne Scholarship, 2020, UBC</strong>: Endowed scholarship awarded based on publication of an <a href="https://doi.org/10.1038/s41558-020-0722-3">outstanding scientific paper in oceanography.</a>
     </li>
     <li>
-      <strong>Robert Rutherford RAE Scholarship 2023</strong>: Endowed scholarship to support a student in oceanography.
+      <strong>George L. Pickard Scholarship in Oceanography, 2023, UBC</strong>: Endowed scholarship recognizing outstanding originality and promise of success in multidisciplinary areas of oceanography.
     </li>
     <li>
-      <strong>George L. Pickard Scholarship in Oceanography 2023</strong>: Endowed scholarship recognizing outstanding originality and promise of success in multidisciplinary areas of oceanography.
+      <strong>Four–year fellowship, 2019–2023, UBC</strong>: The Four Year Doctoral Fellowship program provides financial support and base-level funding for outstanding domestic and international doctoral students at UBC.
     </li>
-    <li>
-      <strong>TReX Graduate Award, 2021–2022</strong>: Funding to attract and support graduate students to conduct research activities on the TReX project that will contribute to a part of the student’s doctoral thesis research.
-    </li>
-      
   </ul>
 </section>
+
+
 <section>
   <h2>Selected Workshops</h2>
   <ul>
