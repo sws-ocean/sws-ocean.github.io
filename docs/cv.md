@@ -109,7 +109,7 @@ description: Access the curriculum vitae of Sam Stevens, an oceanographer involv
       <strong><a href="https://www.cmos.ca/site/awards?a=7" target="_blank">Tertia MC Hughes Graduate Student Prize</a>, 2025, Canadian Meteorological and Oceanographic Society (CMOS)</strong>: "... for his excellent thesis at the University of British Columbia titled Measuring Subsurface Circulation in Deep Stratified Marginal Seas."
     </li>
     <li>
-      <strong>TReX Graduate Award, 2021–2022, MEOPAR</strong>: Funding to attract and support graduate students to conduct research activities on the TReX project that will contribute to a part of the student’s doctoral thesis research.
+      <strong><a href="https://meopar.ca/meet-the-recipients-of-the-trex-graduate-awards/" target="_blank">TReX Graduate Award, 2021–2022, MEOPAR</a></strong>: Funding to attract and support graduate students to conduct research activities on the TReX project that will contribute to a part of the student’s doctoral thesis research.
     </li>
   </ul>
 
@@ -125,10 +125,11 @@ description: Access the curriculum vitae of Sam Stevens, an oceanographer involv
       <strong>George L. Pickard Scholarship in Oceanography, 2023, UBC</strong>: Endowed scholarship recognizing outstanding originality and promise of success in multidisciplinary areas of oceanography.
     </li>
     <li>
-      <strong>Four–year fellowship, 2019–2023, UBC</strong>: The Four Year Doctoral Fellowship program provides financial support and base-level funding for outstanding domestic and international doctoral students at UBC.
+      <strong><a href="https://www.grad.ubc.ca/awards/four-year-doctoral-fellowship-4yf" target="_blank">Four–year fellowship, 2019–2023, UBC</a></strong>: The Four Year Doctoral Fellowship program provides financial support and base-level funding for outstanding domestic and international doctoral students at UBC.
     </li>
   </ul>
 </section>
+
 
 
 <section>
