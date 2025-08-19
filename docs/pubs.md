@@ -98,6 +98,3 @@ description: Review the scholarly publications of Sam Stevens. This page catalog
     </li>
   </ul>    
 </section>
-
-
-ß

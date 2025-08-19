@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CPROOF
+title: C-PROOF
 subtitle: Autonomous observations on the British Columbia Central Coast
 permalink: CPROOF
 description: 
@@ -38,9 +38,7 @@ figure {text-align: center;}
   <figcaption><small>Deploying a glider from the R/V Atlantic Explorer.</small></figcaption>
 </figure>
 
-<!--
 <figure>
   <img src="/assets/img/GBC2025.png" alt="GBC" style="width:70%">
   <figcaption><small>The C-PROOF gliders were a great platform to study the <a href='https://doi.org/10.1029%2F2025GB008608'>variability of dissolved oxygen on the BC shelf</a></small></figcaption>
 </figure>
--->
