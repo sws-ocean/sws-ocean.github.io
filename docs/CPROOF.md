@@ -1,7 +1,7 @@
 ---
 layout: page
-title: CPROOF
-subtitle: Glider observations on the British Columbia Central Coast
+title: C-PROOF
+subtitle: Autonomous observations on the British Columbia Central Coast
 permalink: CPROOF
 description: 
 ---
@@ -24,7 +24,7 @@ figure {text-align: center;}
 
 
 <p>
-    The <a href='https://cproof.uvic.ca/'>Canadian-Pacific Robotic Ocean Observing Facility (CPROOF)</a> operates a fleet of ocean gliders to observe water properties on the British Columbia Central Coast. These instruments provide upper ocean physical and biogeochemical properties across the shelf and into the Pacific. I use data from the gliders and other platforms in the region to look at physical and biogeochemical processes on the British Columbia coast. 
+    The <a href='https://cproof.uvic.ca/'>Canadian-Pacific Robotic Ocean Observing Facility (C-PROOF)</a> operates a fleet of ocean gliders to observe water properties on the British Columbia Central Coast. These instruments provide upper ocean physical and biogeochemical properties across the shelf and into the Pacific. I use data from the gliders and other platforms in the region to look at physical and biogeochemical processes on the British Columbia coast. 
 </p>
 
 
@@ -36,4 +36,9 @@ figure {text-align: center;}
 <figure>
   <img src="/assets/img/glider_deploy.gif" alt="Glider deployment" style="width:70%">
   <figcaption><small>Deploying a glider from the R/V Atlantic Explorer.</small></figcaption>
+</figure>
+
+<figure>
+  <img src="/assets/img/GBC2025.png" alt="GBC" style="width:70%">
+  <figcaption><small>The C-PROOF gliders were a great platform to study the <a href='https://doi.org/10.1029%2F2025GB008608'>variability of dissolved oxygen on the BC shelf</a></small></figcaption>
 </figure>
