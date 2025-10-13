@@ -32,6 +32,10 @@ figure {text-align: center;}
       <p><strong>CBC News:</strong> Could a byproduct of green hydrogen breathe life into Gulf of St. Lawrence dead zone? 
       <a href="https://www.cbc.ca/news/canada/nova-scotia/hypoxic-gulf-of-st-lawrence-quebec-researchers-oxygen-hydrogen-1.7081325" target="_blank">
       https://www.cbc.ca/news/canada/nova-scotia/hypoxic-gulf-of-st-lawrence-quebec-researchers-oxygen-hydrogen-1.7081325</a></p>
+    </li>
+    <li>
+      <p><strong>CBC News Video:</strong> Ocean oxygen decline off British Columbia’s coast — interview segment on regional hypoxia and research efforts. 
+      <a href="https://www.cbc.ca/player/play/video/9.6890232" target="_blank">https://www.cbc.ca/player/play/video/9.6890232</a></p>
       <iframe src="https://www.cbc.ca/player/play/video/9.6890232" width="100%" height="360" frameborder="0" allowfullscreen></iframe>
     </li>
     <li>
@@ -66,6 +70,7 @@ figure {text-align: center;}
     </li>
   </ul>
 </section>
+
 
 
 <section>
