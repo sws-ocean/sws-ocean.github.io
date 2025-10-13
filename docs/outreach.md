@@ -26,6 +26,49 @@ figure {text-align: center;}
 <!--<h1>Outreach</h1>-->
 
 <section>
+  <h2>Press and Media</h2>
+  <ul>
+    <li>
+      <p><strong>CBC News:</strong> Could a byproduct of green hydrogen breathe life into Gulf of St. Lawrence dead zone? 
+      <a href="https://www.cbc.ca/news/canada/nova-scotia/hypoxic-gulf-of-st-lawrence-quebec-researchers-oxygen-hydrogen-1.7081325" target="_blank">
+      https://www.cbc.ca/news/canada/nova-scotia/hypoxic-gulf-of-st-lawrence-quebec-researchers-oxygen-hydrogen-1.7081325</a></p>
+      <iframe src="https://www.cbc.ca/player/play/video/9.6890232" width="100%" height="360" frameborder="0" allowfullscreen></iframe>
+    </li>
+    <li>
+      <p><strong>Global News:</strong> B.C. researchers study ocean oxygen depletion and implications for marine ecosystems. 
+      <a href="https://globalnews.ca/news/11393220/bc-ocean-oxygen/" target="_blank">
+      https://globalnews.ca/news/11393220/bc-ocean-oxygen/</a></p>
+    </li>
+    <li>
+      <p><strong>Phys.org:</strong> The ocean responds to a warming planet. 
+      <a href="https://phys.org/news/2020-04-ocean-planet.html" target="_blank">
+      https://phys.org/news/2020-04-ocean-planet.html</a></p>
+    </li>
+    <li>
+      <p><strong>Kaua‘i Now News:</strong> World’s next generation of marine scientists present cutting-edge research on Kaua‘i. 
+      <a href="https://kauainownews.com/2024/10/22/worlds-next-generation-of-marine-scientists-present-cutting-edge-research-on-kauai/" target="_blank">
+      https://kauainownews.com/2024/10/22/worlds-next-generation-of-marine-scientists-present-cutting-edge-research-on-kauai/</a></p>
+    </li>
+    <li>
+      <p><strong>MEOPAR:</strong> Meet the recipients of MEOPAR and RQM’s TReX Graduate Student Awards! 
+      <a href="https://meopar.ca/meet-the-recipients-of-the-trex-graduate-awards/" target="_blank">
+      https://meopar.ca/meet-the-recipients-of-the-trex-graduate-awards/</a></p>
+    </li>
+    <li>
+      <p><strong>ASU BIOS Currents:</strong> The Science Behind Successful Sailboat Racing. 
+      <a href="https://bios.asu.edu/currents/science-behind-successful-sailboat-racing" target="_blank">
+      https://bios.asu.edu/currents/science-behind-successful-sailboat-racing</a></p>
+    </li>
+    <li>
+      <p><strong>Tula Foundation:</strong> Hypoxia emerges as a new threat on Canada’s Pacific shelf. 
+      <a href="https://tula.org/news/hypoxia-emerges-as-a-new-threat-on-canadas-pacific-shelf" target="_blank">
+      https://tula.org/news/hypoxia-emerges-as-a-new-threat-on-canadas-pacific-shelf</a></p>
+    </li>
+  </ul>
+</section>
+
+
+<section>
 
 <h2>Science World- Future Science Leaders Program</h2>
 

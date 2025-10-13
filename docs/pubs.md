@@ -21,6 +21,10 @@ description: Review the scholarly publications of Sam Stevens. This page catalog
     <li>
       <p><strong>S. W. Stevens</strong>, C. Hannah, W. Evans, J. Klymak, S. Waterman, T. Ross (2025). Dissolved oxygen variability on the Canadian Pacific shelf: Trends, drivers, and projections in the context of emerging hypoxia in Queen Charlotte Sound. <em>Global Biogeochemical Cycles</em>, 39, e2025GB008608. <a href="https://doi.org/10.1029/2025GB008608">https://doi.org/10.1029/2025GB008608</a></p>
     </li>
+    <li>
+        <p>Nesbitt, W. A., <strong>S. W. Stevens</strong>, A. O. Mucci, L. Gerke, T. Tanhua, G. Chaillou, and D. W. R. Wallace (2025). The coupled oxygen and carbon dynamics in the subsurface waters of the Gulf and Lower St. Lawrence Estuary and implications for artificial oxygenation. <em>Ocean Science</em>, 21, 2179–2195. <a href="https://doi.org/10.5194/os-21-2179-2025">https://doi.org/10.5194/os-21-2179-2025</a></p>
+    </li>
+  
   </ul>
 </section>
 
