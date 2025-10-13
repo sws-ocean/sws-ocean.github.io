@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications and Press
+title: Publications
 subtitle: 
 permalink: pubs
 description: Review the scholarly publications of Sam Stevens. This page catalogues his contributions to understanding ocean dynamics, methodological innovations, and the ecological impacts of marine processes.
