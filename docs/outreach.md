@@ -34,9 +34,15 @@ figure {text-align: center;}
       https://www.cbc.ca/news/canada/nova-scotia/hypoxic-gulf-of-st-lawrence-quebec-researchers-oxygen-hydrogen-1.7081325</a></p>
     </li>
     <li>
-      <p><strong>CBC News Video:</strong> Ocean oxygen decline off British Columbia’s coast — interview segment on regional hypoxia and research efforts. 
-      <a href="https://www.cbc.ca/player/play/video/9.6890232" target="_blank">https://www.cbc.ca/player/play/video/9.6890232</a></p>
+      <p><strong>CBC News Video:</strong> Ocean oxygen decline off British Columbia’s coast — interview segment discussing hypoxia and ocean deoxygenation research. 
+      <a href="https://www.cbc.ca/player/play/video/9.6890232" target="_blank">
+      https://www.cbc.ca/player/play/video/9.6890232</a></p>
       <iframe src="https://www.cbc.ca/player/play/video/9.6890232" width="100%" height="360" frameborder="0" allowfullscreen></iframe>
+    </li>
+    <li>
+      <p><strong>CBC News (Web Article):</strong> B.C. scientists study declining ocean oxygen and potential consequences for coastal ecosystems. 
+      <a href="https://www.cbc.ca/news/canada/british-columbia/ocean-oxygen-decline-bc-hypoxia-1.7084560" target="_blank">
+      https://www.cbc.ca/news/canada/british-columbia/ocean-oxygen-decline-bc-hypoxia-1.7084560</a></p>
     </li>
     <li>
       <p><strong>Global News:</strong> B.C. researchers study ocean oxygen depletion and implications for marine ecosystems. 
