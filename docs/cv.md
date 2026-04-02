@@ -37,7 +37,9 @@ description: Access the curriculum vitae of Sam Stevens, an oceanographer involv
 <section>
   <h2>Employment</h2>
   <ul>
-     <li><strong>May. 2024 to date</strong>: Postdoctoral Researcher, CPROOF, Hakai Insitute, Vancouver, Canada</li>
+      <li><strong>Aug. 2025 to date</strong>: Independent Researcher (Oceanography), Vancouver, Canada</li>  
+      <li><strong>Aug. 2025 to date</strong>: Industry Consultant (SubCom – Desktop Studies / DTS), Vancouver, Canada</li>  
+     <li><strong>May 2024 to Aug. 2025</strong>: Postdoctoral Researcher, CPROOF, Hakai Insitute, Vancouver, Canada</li>
     <li><strong>Dec. 2014 – Aug. 2017</strong>: Research Technician, Bermuda Atlantic Time-series Study, Bermuda Institute of Ocean Sciences (BIOS), St. Georges, Bermuda</li>
     <li><strong>Dec. 2013 – Dec. 2014</strong>: MetOcean Scientist, Fugro EMU, Portsmouth, U.K.</li>
     <li><strong>Jul. 2012 – Jun. 2013</strong>: Assistant Coastal Surveyor, Havant Borough Council, Havant, U.K.</li>
