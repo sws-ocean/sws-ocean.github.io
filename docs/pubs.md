@@ -19,7 +19,10 @@ description: Review the scholarly publications of Sam Stevens. This page catalog
   <h2>2026</h2>
   <ul>
     <li>
-      <p>Gerke, L., T. Tanhua, W. A. Nesbitt, <strong>S. W. Stevens</strong>, and D. W. R. Wallace (2026). Transient tracer observations in the Gulf of St. Lawrence reveal shift from younger to older inflow waters. <em>Ocean Science</em>, 22, 1391–1407. <a href="https://doi.org/10.5194/os-22-1391-2026">https://doi.org/10.5194/os-22-1391-2026</a></p>
+      <p>Nesbitt, W. A., A. O. Mucci, T. Tanhua, Y. G&eacute;linas, J.-&Eacute;. Tremblay, G. Chaillou, L. Pascal, C. Fradette, L. Gerke, <strong>S. W. Stevens</strong>, M. Jutras, M. Blais, M. Lizotte, M. Starr, and D. W. R. Wallace (2026). Gulf of St. Lawrence and Estuary Dataset (GOSLED): a 20-year compilation of quality-controlled biogeochemical observations (2003&ndash;2023). <em>Earth System Science Data</em>, 18, 3609&ndash;3634. <a href="https://doi.org/10.5194/essd-18-3609-2026">https://doi.org/10.5194/essd-18-3609-2026</a></p>
+    </li>
+    <li>
+      <p>Gerke, L., T. Tanhua, W. A. Nesbitt, <strong>S. W. Stevens</strong>, and D. W. R. Wallace (2026). Transient tracer observations in the Gulf of St. Lawrence reveal shift from younger to older inflow waters. <em>Ocean Science</em>, 22, 1391&ndash;1407. <a href="https://doi.org/10.5194/os-22-1391-2026">https://doi.org/10.5194/os-22-1391-2026</a></p>
     </li>
   </ul>
 </section>
