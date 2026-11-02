@@ -80,6 +80,20 @@ description: Review the scholarly publications of Sam Stevens. This page catalog
 
     <article class="publication">
       <div class="pub-title">
+        <a href="https://doi.org/10.22541/essoar.15011337/v1">
+          Dissolved Oxygen Variability on the Canadian Pacific Margin: Subarctic Source-Water Variability and Equatorial Water Influence
+        </a>
+      </div>
+      <div class="pub-authors">
+        <strong>S. W. Stevens</strong> and C. G. Hannah
+      </div>
+      <div class="pub-details">
+        <em>ESS Open Archive</em>, 30 October 2026 (preprint).
+      </div>
+    </article>
+
+    <article class="publication">
+      <div class="pub-title">
         <a href="https://doi.org/10.5194/essd-18-3609-2026">
           Gulf of St. Lawrence and Estuary Dataset (GOSLED): a 20-year compilation of quality-controlled biogeochemical observations (2003–2023)
         </a>
