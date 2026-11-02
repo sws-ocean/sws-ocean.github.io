@@ -40,7 +40,7 @@ description: Review the scholarly publications of Sam Stevens. This page catalog
 
 .pub-title {
   margin-bottom: 0.3rem;
-  font-size: 1.05rem;
+  font-size: 1rem;
   font-weight: 600;
   line-height: 1.45;
 }
@@ -57,12 +57,13 @@ description: Review the scholarly publications of Sam Stevens. This page catalog
 
 .pub-authors {
   margin-bottom: 0.25rem;
+  font-size: 1rem;
   line-height: 1.5;
 }
 
 .pub-details {
   color: #666;
-  font-size: 0.95rem;
+  font-size: 0.9rem;
   line-height: 1.45;
 }
 
